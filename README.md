@@ -1,8 +1,8 @@
 - Hi 👋👋👋 ... I’m @**_usa-m_**
 
-- I’m interested in 👀 IoT, AI, .NetCore (including ASP.NetCore), Android, Xamarin, BASH and native development for Windows & Linux Platforms.
+- I’m interested in 👀 IoT, AI, .NetCore (including ASP.NetCore), Android, Xamarin, BASH and native development for Windows & Linux Platforms
 
-- Currently I'm learning to combine all the interests into an IoT Echosystem 🌱.
+- Currently I'm learning to combine all the interests into IoT 🌱
 
 - I’m looking forward to collaborate on IoT Echosystem ...💞️...
   - Starting from Arduinos, STM32s and RaspberryPIs etc., etc., etc. ...
