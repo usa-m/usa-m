@@ -1,13 +1,13 @@
 - Hi 👋👋👋 ... I’m @**_usa-m_**
 
-- I’m interested in 👀 IoT, AI, .NetCore (including ASP.NetCore), Android, Xamarin, BASH and native development for Windows & Linux Platforms
+- I’m interested in 👀 IoT, AI, .NetCore, Android, Xamarin, Full-stack Development, BASH, Matlab, Proteus Designs and Simulations, Games Development, and Native Development for Windows & Linux ... In short, EVERY __*CUTE* TECHNOLOGY__
 
-- Currently I'm learning to combine all the interests into IoT 🌱
+- These days I'm learning to combine all the interests into IoT 🌱
 
-- I’m looking forward to collaborate on IoT Echosystem ...💞️...
+- Looking forward to collaborate on Devices' Echosystem ...💞️...
   - Starting from Arduinos, STM32s and RaspberryPIs etc., etc., etc. ...
-  - Connected with backends powered by AI & Big Data platforms running in the Cloud
-  - .... Securely, of course
+  - Connected with backends fueled with AI & Big Data in the Cloud
+  - .... Securely ✨ ... of course
 
 - Reach me at ... 📫mooodify@gmail.com
 
