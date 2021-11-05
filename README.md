@@ -6,8 +6,8 @@
 
 - Looking forward to collaborate on Devices' Echosystem ...💞️...
   - Starting from Arduinos, STM32s and RaspberryPIs etc., etc., etc. ...
-  - Connected with backends fueled with AI & Big Data in the Cloud
-  - .... Securely ✨ ... of course
+  - Connected with backbones fueled with AI & Big Data in the Cloud
+  - Connecting .... Securely ✨ ... of course
 
 - Reach me at ... 📫mooodify@gmail.com
 
