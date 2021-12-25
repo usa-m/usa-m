@@ -1,17 +1,14 @@
-- Hi 👋👋👋 ... I’m @**_usa-m_**
+👋👋👋
 
-- I’m interested in 👀 IoT, AI, .NetCore, Android, Xamarin, Full-stack Development, BASH, Matlab, Proteus Designs and Simulations, Games Development, and Native Development for Windows & Linux ... In short, EVERY __*CUTE* TECHNOLOGY__
+Hi ... I’m @**_usa-m_**
 
-- These days I'm learning to combine all the interests into IoT 🌱
+- Interested 👀 in IoT, AI, .NetCore, Android, Xamarin, Full-stack Development, BASH, Matlab, Electronics / Electrical Designs & Simulations, Games Development, and Native Development for Windows & Linux ... In short, EVERY __*BEAUTIFUL* PIECE OF TECHNOLOGY__
 
-- Looking forward to collaborate on Devices' Echosystem ...💞️...
-  - Starting from Arduinos, STM32s and RaspberryPIs etc., etc., etc. ...
-  - Connected with backbones fueled with AI & Big Data in the Cloud
-  - Connecting .... Securely ✨ ... of course
+- I've been learning and working to combine all my interests into building single identity🌱
+
+- Collaborations are always welcomed ...💞️...
+  - Starting from Arduinos, STM32s, BeagleBones and RaspberryPIs etc., etc., etc. ...
+  - Connecting with backbones fueled by AI, ML & Big Data - preferably using Cloud
+  - Securing the infrastructure ✨ ... of course
 
 - Reach me at ... 📫mooodify@gmail.com
-
-<!---
-usa-m/usa-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
