@@ -5,7 +5,7 @@ Interested 👀 in:
   - AR, VR, AI & ML usage in Modern World and Games Development
   - Native and Cross-platform Development for Windows and GNU/Linux & its derivatives
   - Full-stack Development
-  >> ... In short, EVERY __*BEAUTIFUL* PIECE OF TECHNOLOGY__ impacting our daily lives
+  - ... In short, EVERY __*BEAUTIFUL* PIECE OF TECHNOLOGY__ impacting our daily lives
 
 - I've been learning and working to combine all my interests into singularity 🌱
 
