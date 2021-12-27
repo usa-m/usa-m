@@ -1,11 +1,13 @@
-👋👋👋 Hi ... I’m @**_usa-m_**
+👋 👋 👋
+
+Hi ... I’m @**_usama_**
 
 Interested 👀 in:
   - Electronics / Electrical Designs & Simulations for IoT and Edge Computing
   - AR, VR, AI & ML usage in Modern World and Games Development
   - Native and Cross-platform Development for Windows and GNU/Linux & its derivatives
   - Full-stack Development
-  - ... In short, every __*BEAUTIFUL* PIECE OF TECHNOLOGY__ impacting our daily lives
+  - ... In short, every __*beautiful* piece of technology__ impacting our daily lives
 
 
 I've been learning and working to combine all my interests into singularity 🌱
