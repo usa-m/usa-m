@@ -2,7 +2,7 @@
 
 Hi ... I’m @**_usama_** - a self-motivated learner
 
-
+&nbsp;
 
 # 
 
@@ -19,18 +19,18 @@ Possessing background in engineering and curious mind, I've particular interests
 
 
 I've been learning and working to combine all my interests into singularity 🌱
-  
-  
-  
+
+&nbsp;
+
 # 
 
 Collaborations are always welcomed ...💞️...
   - Starting from Arduinos, STM32s, BeagleBones and RaspberryPIs etc., etc., etc. ...
   - Connecting edge hardware with backbones - fueled by AI & Big Data - preferably on Cloud
   - Securing the ecosystem ✨ ... of course
-  
-  
-  
+
+&nbsp;
+
 # 
 
 Additional projects in progress (internal as well as public) are hosted at:
@@ -42,8 +42,8 @@ Additional projects in progress (internal as well as public) are hosted at:
   [![Ubrant](https://avatars.githubusercontent.com/u/87671848?s=28&v=4) Ubrant](https://github.com/ubrant)
   &nbsp;&nbsp; ⁌⦾⁍ &nbsp;&nbsp;
   [![GOOAN](https://avatars.githubusercontent.com/u/87671960?s=28&v=4) GOOAN](https://github.com/gooan)
-  
-  
-  
+
+&nbsp;
+
 # 
 Reach me at ... 📫mooodify@gmail.com
