@@ -35,13 +35,13 @@ Collaborations are always welcomed ...💞️...
 
 Additional projects in progress (internal as well as public) are hosted at:
 
-  [![Innolixir](https://avatars.githubusercontent.com/u/85053112?s=35&v=4) Innolixir](https://github.com/innolixir)
+  [![Innolixir](https://avatars.githubusercontent.com/u/85053112?s=30&v=4) Innolixir](https://github.com/innolixir)
    ⦾ 
-  [![CronBlocks](https://avatars.githubusercontent.com/u/86520771?s=35&v=4) CronBlocks](https://github.com/cronblocks)
+  [![CronBlocks](https://avatars.githubusercontent.com/u/86520771?s=30&v=4) CronBlocks](https://github.com/cronblocks)
    ⦾ 
-  [![Ubrant](https://avatars.githubusercontent.com/u/87671848?s=35&v=4) Ubrant](https://github.com/ubrant)
+  [![Ubrant](https://avatars.githubusercontent.com/u/87671848?s=30&v=4) Ubrant](https://github.com/ubrant)
    ⦾ 
-  [![GOOAN](https://avatars.githubusercontent.com/u/87671960?s=35&v=4) GOOAN](https://github.com/gooan)
+  [![GOOAN](https://avatars.githubusercontent.com/u/87671960?s=30&v=4) GOOAN](https://github.com/gooan)
   
   
   
