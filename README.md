@@ -4,12 +4,6 @@
 
 Hi ... I’m @**_usama_** - a self-motivated learner
 
-&nbsp;
-
-# 
-
-&nbsp;
-
 Possessing background in engineering and curious mind, I've particular interests 👀 in:
   - Understanding our World and Nature
   - Electronics & electrical designs
