@@ -1,10 +1,14 @@
 # 👋 👋 👋
 
+&nbsp;
+
 Hi ... I’m @**_usama_** - a self-motivated learner
 
 &nbsp;
 
 # 
+
+&nbsp;
 
 Possessing background in engineering and curious mind, I've particular interests 👀 in:
   - Understanding our World and Nature
@@ -24,6 +28,8 @@ I've been learning and working to combine all my interests into singularity 🌱
 
 # 
 
+&nbsp;
+
 Collaborations are always welcomed ...💞️...
   - Starting from Arduinos, STM32s, BeagleBones and RaspberryPIs etc., etc., etc. ...
   - Connecting edge hardware with backbones - fueled by AI & Big Data - preferably on Cloud
@@ -32,6 +38,8 @@ Collaborations are always welcomed ...💞️...
 &nbsp;
 
 # 
+
+&nbsp;
 
 Additional projects in progress (internal as well as public) are hosted at:
 
