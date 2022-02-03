@@ -23,4 +23,11 @@ Collaborations are always welcomed ...💞️...
   - Securing the ecosystem ✨ ... of course
 
 
+Working on projects (internal as well as public) in:
+  - [Innolixir](https://github.com/innolixir)
+  - [CronBlocks](https://github.com/cronblocks)
+  - [Ubrant](https://github.com/ubrant)
+  - [GOOAN](https://github.com/gooan)
+
+
 Reach me at ... 📫mooodify@gmail.com
