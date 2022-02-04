@@ -32,13 +32,13 @@ Collaborations are always welcomed ...💞️...
 Additional projects in progress (internal as well as public) are hosted at:
 
 <p align="center">
-  <a href="https://github.com/innolixir"><img src="https://avatars.githubusercontent.com/u/85053112?s=28&v=4" alt="Innolixir" /> Innolixir</a>
-  &nbsp;&nbsp; ⁌⦾⁍ &nbsp;&nbsp;
-  <a href="https://github.com/cronblocks"><img src="https://avatars.githubusercontent.com/u/86520771?s=28&v=4" alt="CronBlocks" /> CronBlocks</a>
-  &nbsp;&nbsp; ⁌⦾⁍ &nbsp;&nbsp;
-  <a href="https://github.com/ubrant"><img src="https://avatars.githubusercontent.com/u/87671848?s=28&v=4" alt="Ubrant" /> Ubrant</a>
-  &nbsp;&nbsp; ⁌⦾⁍ &nbsp;&nbsp;
-  <a href="https://github.com/gooan"><img src="https://avatars.githubusercontent.com/u/87671960?s=28&v=4" alt="GOOAN" /> GOOAN</a>
+  <span><a href="https://github.com/innolixir"><img src="https://avatars.githubusercontent.com/u/85053112?s=28&v=4" alt="Innolixir" /> Innolixir</a></span>
+  <span>&nbsp;&nbsp; ⁌⦾⁍ &nbsp;&nbsp;</span>
+  <span><a href="https://github.com/cronblocks"><img src="https://avatars.githubusercontent.com/u/86520771?s=28&v=4" alt="CronBlocks" /> CronBlocks</a></span>
+  <span>&nbsp;&nbsp; ⁌⦾⁍ &nbsp;&nbsp;</span>
+  <span><a href="https://github.com/ubrant"><img src="https://avatars.githubusercontent.com/u/87671848?s=28&v=4" alt="Ubrant" /> Ubrant</a></span>
+  <span>&nbsp;&nbsp; ⁌⦾⁍ &nbsp;&nbsp;</span>
+  <span><a href="https://github.com/gooan"><img src="https://avatars.githubusercontent.com/u/87671960?s=28&v=4" alt="GOOAN" /> GOOAN</a></span>
 </p>
 
 &nbsp;
