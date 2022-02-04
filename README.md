@@ -1,4 +1,4 @@
-<h1 align="center">👋&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👋&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👋</h1>
+<h1 align="center">👋</h1>
 
 Hi ... I’m @**_usama_** - a self-motivated learner
 
