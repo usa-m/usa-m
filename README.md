@@ -44,4 +44,4 @@ Additional projects in progress (internal as well as public) are hosted at:
 &nbsp;
 
 # 
-<p align="right"><a href="mailto:mooodify@gmail.com">&#128231;</a></p>
+<p align="right"><a href="mailto:mooodify@gmail.com">&#128231; contact</a></p>
