@@ -29,7 +29,7 @@ Collaborations are always welcomed ...💞️...
 
 # 
 
-Additional projects in progress (internal as well as public) are hosted at:
+Additional projects in progress (internal for the time being as well as public ones) are hosted at:
 
 <p align="center">
   <a href="https://github.com/innolixir"><img src="https://avatars.githubusercontent.com/u/85053112?s=28&v=4" alt="Innolixir" /> Innolixir</a>
