@@ -2,27 +2,26 @@
 
 Hi ... I’m @**_usama_** - a self-motivated learner
 
-Possessing background in engineering and curious mind, I've particular interests 👀 in:
-  - Understanding our World and Nature
-  - Electronics & electrical designs
-  - Real-world simulations and games development - employing AR & VR
-  - IoT, IIoT and Edge Computing
-  - AI with and without ML
-  - Native and cross-platform development - Windows; GNU/Linux & its flavors
-  - Full-stack development
+Possessing background in engineering and with curious mind, I've interests 👀 in:
+  - Understanding Life and Nature
+  - In-depth Controls
+  - Real-life simulations - AR to VR spectrum
+  - Nodes' Computing
+  - AI
+  - Native, cross-platform, full-stack or no-stack development
 
-... In short, __Nature__ and every __piece of technology__ deserve attention.
+... In short, __learning never stops__.
 
 
-I've been learning and working to combine all my interests into singularity 🌱
+I've been trying to combine all my interests into singularity 🌱
 
 &nbsp;
 
 # 
 
 Collaborations are always welcomed ...💞️...
-  - Starting from Arduinos, STM32s, BeagleBones and RaspberryPIs etc., etc., etc. ...
-  - Connecting edge hardware with backbones - fueled by AI & Big Data - preferably on Cloud
+  - Arduinos, STM32s, BeagleBones, RaspberryPIs, RTOSes etc., etc., etc. ...
+  - Connecting edge hardware with backbones - driving AI & Big Data
   - Securing the ecosystem ✨ ... of course
 
 &nbsp;
@@ -35,6 +34,8 @@ Additional projects in progress (internal for the time being as well as public o
   <a href="https://github.com/innolixir"><img src="https://avatars.githubusercontent.com/u/85053112?s=28&v=4" alt="Innolixir" /> Innolixir</a>
   &nbsp;&nbsp;⁌⦾⁍&nbsp;&nbsp;
   <a href="https://github.com/cronblocks"><img src="https://avatars.githubusercontent.com/u/86520771?s=28&v=4" alt="CronBlocks" /> CronBlocks</a>
+  &nbsp;&nbsp;⁌⦾⁍&nbsp;&nbsp;
+  <a href="https://github.com/cronblocks-ai"><img src="https://avatars.githubusercontent.com/u/103107980?s=200&v=4" alt="CronBlocks AI" /> CronBlocks AI</a>
   &nbsp;&nbsp;⁌⦾⁍&nbsp;&nbsp;
   <a href="https://github.com/ubrant"><img src="https://avatars.githubusercontent.com/u/87671848?s=28&v=4" alt="Ubrant" /> Ubrant</a>
   &nbsp;&nbsp;⁌⦾⁍&nbsp;&nbsp;
