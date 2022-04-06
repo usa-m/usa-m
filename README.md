@@ -10,19 +10,16 @@ Possessing engineering background and curious mind, have interests 👀 in:
   - AI
   - Native, cross-platform, full-stack or no-stack development
 
-... In short, __learning never stops__.
-
-
-I've been trying to combine all my interests into singularity 🌱
+... In short, __learning never stops__ 🌱
 
 &nbsp;
 
 # 
 
-Collaborations are always welcomed ...💞️...
-  - Arduinos, STM32s, BeagleBones, RaspberryPIs, RTOSes etc., etc., etc. ...
-  - Connecting edge hardware with backbones - driving AI & Big Data
-  - Securing the ecosystem ✨ ... of course
+Collaborations are always welcomed ... 💞️ ...
+  - Arduinos, STM32s, BeagleBones, NUCs, \*PIs, RTOSes etc., etc. ...
+  - Connecting edge hardware with backbones - feeding AI, Big Data
+  - Securing the ecosystem ✨ ... as much viable
 
 &nbsp;
 
