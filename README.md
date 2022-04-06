@@ -35,7 +35,7 @@ Additional projects in progress (internal for the time being as well as public o
   &nbsp;&nbsp;⁌⦾⁍&nbsp;&nbsp;
   <a href="https://github.com/cronblocks"><img src="https://avatars.githubusercontent.com/u/86520771?s=28&v=4" alt="CronBlocks" /> CronBlocks</a>
   &nbsp;&nbsp;⁌⦾⁍&nbsp;&nbsp;
-  <a href="https://github.com/cronblocks-ai"><img src="https://avatars.githubusercontent.com/u/103107980?s=200&v=4" alt="CronBlocks AI" /> CronBlocks AI</a>
+  <a href="https://github.com/cronblocks-ai"><img src="https://avatars.githubusercontent.com/u/103107980?s=28&v=4" alt="CronBlocks AI" /> CronBlocks AI</a>
   &nbsp;&nbsp;⁌⦾⁍&nbsp;&nbsp;
   <a href="https://github.com/ubrant"><img src="https://avatars.githubusercontent.com/u/87671848?s=28&v=4" alt="Ubrant" /> Ubrant</a>
   &nbsp;&nbsp;⁌⦾⁍&nbsp;&nbsp;
