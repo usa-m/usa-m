@@ -2,7 +2,7 @@
 
 Hi ... I’m @**_usama_** - a self-motivated learner
 
-Possessing background in engineering and with curious mind, I've interests 👀 in:
+Possessing engineering background and curious mind, have interests 👀 in:
   - Understanding Life and Nature
   - In-depth Controls
   - Real-life simulations - AR to VR spectrum
