@@ -2,30 +2,31 @@
 
 Hi ... I’m @**_usama_** - a self-motivated learner
 
-Possessing engineering background and curious mind, have interests 👀 in:
-  - Understanding Life and Nature
-  - In-depth Controls
-  - Real-life simulations - AR to VR spectrum
-  - Nodes' Computing
+With engineering background and curiosity, have interests 👀 in:
+  
+  - Control Systems
+  - Real-life Simulations - AR~VR Spectrum
+  - Distributed Computing
   - AI
-  - Native, cross-platform, full-stack or no-stack development
+  - Native, Cross-platform, Full-stack and No-stack Development
+  - Above all - Understanding Life & Nature
 
-... In short, __learning never stops__ 🌱
+... In short - __learning never stops__ 🌱
 
 &nbsp;
 
 # 
 
 Collaborations are always welcomed ... 💞️ ...
-  - Arduinos, STM32s, BeagleBones, NUCs, \*PIs, RTOSes etc., etc. ...
-  - Connecting edge hardware with backbones - feeding AI, Big Data
-  - Securing the ecosystem ✨ ... as much viable
+  - Arduinos, STM32s, BeagleBones, NUCs, \*PIs, RTOSes ...
+  - Connecting edge hardware together and with backbones
+  - Securing the ecosystem ✨ - as much viable
 
 &nbsp;
 
 # 
 
-Additional projects in progress (internal for the time being as well as public ones) are hosted at:
+Projects (internal for the time being as well as public ones) are hosted at:
 
 <p align="center">
   <a href="https://github.com/innolixir"><img src="https://avatars.githubusercontent.com/u/85053112?s=28&v=4" alt="Innolixir" /> Innolixir</a>
@@ -42,4 +43,4 @@ Additional projects in progress (internal for the time being as well as public o
 &nbsp;
 
 # 
-<p align="right"><a href="mailto:mooodify@gmail.com">&#128231; contact</a></p>
+<p align="right"><a href="mailto:mahmoodify@gmail.com">&#128231; contact</a></p>
