@@ -43,4 +43,4 @@ Projects (internal for the time being as well as public ones) are hosted at:
 &nbsp;
 
 # 
-<p align="right"><a href="mailto:mahmoodify@gmail.com">&#128231; contact</a></p>
+<p align="right"><a href="mailto:anti.qazi@gmail.com">&#128231; contact</a></p>
