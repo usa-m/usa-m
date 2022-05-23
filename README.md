@@ -1,6 +1,6 @@
 <h1 align="center">👋</h1>
 
-Hi ... I’m **_usama_** - curious about 👀 :
+Hi ... I’m **_usama_** - interested in 👀 :
   
   - Control Systems
   - Real-life Simulations - AR~VR Spectrum
@@ -8,6 +8,8 @@ Hi ... I’m **_usama_** - curious about 👀 :
   - AI
   - Native, Cross-platform, Full-stack and No-stack Development
   - Above all - Life, Purpose of Life & Nature
+
+
 
 <h3 align="center">💞️💞️💞️</h3>
 
@@ -17,6 +19,8 @@ Collaborations are always welcomed on ...  ...
   - Firmwares: Arduinos, STM32s, BeagleBones, NUCs, \*PIs, RTOSes ...
   - Connectivity: Connecting edge hardware virtually together and with backbones
   - Security: Securing the ecosystem ✨✨✨ - as much viable
+
+
 
 <h3 align="center">🌱🌱🌱</h3>
 
