@@ -9,18 +9,16 @@ Hi ... I’m **_usama_** - curious about 👀 :
   - Native, Cross-platform, Full-stack and No-stack Development
   - Above all - Life, Purpose of Life & Nature
 
-🌱🌱🌱
-
-&nbsp;
+<h3 align="center">💞️💞️💞️</h3>
 
 # 
 
-Collaborations are always welcomed on ... 💞️💞️💞️ ...
+Collaborations are always welcomed on ...  ...
   - Firmwares: Arduinos, STM32s, BeagleBones, NUCs, \*PIs, RTOSes ...
   - Connectivity: Connecting edge hardware virtually together and with backbones
   - Security: Securing the ecosystem ✨✨✨ - as much viable
 
-&nbsp;
+<h3 align="center">🌱🌱🌱</h3>
 
 # 
 
