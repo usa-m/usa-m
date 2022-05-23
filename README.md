@@ -1,26 +1,24 @@
 <h1 align="center">👋</h1>
 
-Hi ... I’m @**_usama_** - a self-motivated learner
-
-With engineering background and curiosity, have interests 👀 in:
+Hi ... I’m @**_usama_** - curious about 👀 :
   
   - Control Systems
   - Real-life Simulations - AR~VR Spectrum
   - Distributed Computing
   - AI
   - Native, Cross-platform, Full-stack and No-stack Development
-  - Above all - Understanding Life & Nature
+  - Above all - Life, Purpose of Life & Nature
 
-... In short - __learning never stops__ 🌱
+🌱🌱🌱
 
 &nbsp;
 
 # 
 
-Collaborations are always welcomed ... 💞️ ...
-  - Arduinos, STM32s, BeagleBones, NUCs, \*PIs, RTOSes ...
-  - Connecting edge hardware together and with backbones
-  - Securing the ecosystem ✨ - as much viable
+Collaborations are always welcomed on ... 💞️💞️💞️ ...
+  - Firmwares: Arduinos, STM32s, BeagleBones, NUCs, \*PIs, RTOSes ...
+  - Connectivity: Connecting edge hardware virtually together and with backbones
+  - Security: Securing the ecosystem ✨✨✨ - as much viable
 
 &nbsp;
 
