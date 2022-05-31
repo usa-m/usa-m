@@ -3,9 +3,9 @@
 Hi ... I’m **_usama_** - interested in 👀 :
   
   - Control Systems
-  - Real-life Simulations - AR~VR Spectrum
-  - Distributed Computing
-  - AI
+  - Real-life Simulations - AR ~ VR Spectrum
+  - Distributed Computing Nodes
+  - AI ~ ML
   - Native, Cross-platform, Full-stack and No-stack Development
   - Above all - **_Life_**, **_Purpose of Life_**, **_Nature_** and **_Our Universe_**
 
