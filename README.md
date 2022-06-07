@@ -7,7 +7,7 @@ Hi ... I’m **_usama_** - interested in 👀 :
   - Distributed Computing Nodes
   - AI ~ ML
   - Native, Cross-platform, Full-stack and No-stack Development
-  - Above all - **_Life_**, **_Purpose of Life_**, **_Nature_** and **_Our Universe_**
+  - Above all - **_Life_**, **_Purpose of Life_**, **_Nature_** and **_Our MOST Amazing Universe_**
 
 
 &nbsp;
