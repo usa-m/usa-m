@@ -1,6 +1,6 @@
 <h1 align="center">👋</h1>
 
-Hi ... I’m *usama* - interested in 👀 :
+Hi ... I’m *usama*, considerably interested in 👀 :
   
   - Control Systems
   - Real-life Simulations - AR ~ VR Spectrum
