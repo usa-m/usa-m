@@ -16,7 +16,7 @@ Hi ... I’m *usama*, considerably interested in 👀 :
 
 # 
 
-Collaborations are always welcomed on :star::
+Collaborations are always welcomed :star: on:
   - Software / Firmwares: Arduinos, STM32s, BeagleBones, NUCs, \*PIs, RTOSes ...
   - Connectivity: Connecting edge hardware virtually together and with backbones
   - Security: Securing the ecosystem ✨✨✨ - as much viable
