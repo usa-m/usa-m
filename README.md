@@ -3,7 +3,7 @@
 Hi! I’m interested in 👀 :
   
   - Designing Control Systems
-  - Real-life Simulations covering AR ~ VR Spectrum
+  - Real-life Simulations / Games covering AR ~ VR Spectrum
   - Parallel Processing over Distributed Computing Nodes
   - AI ~ ML ... Whatever
   - Native, Cross-platform, Full-stack and No-stack Development
