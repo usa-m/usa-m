@@ -1,13 +1,13 @@
 <h1 align="center">👋</h1>
 
-Hi ... I’m interested in 👀 :
+Hi! I’m interested in 👀 :
   
-  - Control Systems
-  - Real-life Simulations over AR ~ VR Spectrum
-  - Distributed Computing Nodes
-  - AI ~ ML
+  - Designing Control Systems
+  - Real-life Simulations covering AR ~ VR Spectrum
+  - Parallel Processing over Distributed Computing Nodes
+  - AI ~ ML ... Whatever
   - Native, Cross-platform, Full-stack and No-stack Development
-  - Above all - **_Life_**, **_Purpose of Life_**, **_Nature_** and **_Our MOST Amazing Universe_**
+  - ...
 
 
 &nbsp;
