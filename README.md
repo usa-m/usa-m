@@ -28,7 +28,7 @@ Collaborations are always welcomed :star::star::star: on:
 
 # 
 
-Projects (internal for the time being as well as public ones) are hosted at:
+Projects (internal for the time being, ... as well as public ones) are hosted at:
 
 <p align="center">
   <!--<a href="https://github.com/innolixir"><img src="https://avatars.githubusercontent.com/u/85053112?s=28&v=4" alt="Innolixir" /> Innolixir</a>
