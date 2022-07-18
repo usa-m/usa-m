@@ -1,6 +1,6 @@
 <h1 align="center">👋</h1>
 
-Hi! I’m interested in 👀 :
+Hi! I’m interested 👀 in:
   
   - Designing Control Systems
   - Real-life Simulations / Games covering AR ~ VR Spectrum
