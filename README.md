@@ -2,6 +2,7 @@
 
 Hi! I’m interested 👀 in:
   
+  - Writing
   - Designing Control Systems
   - Real-life Simulations / Games covering AR ~ VR Spectrum
   - Parallel Processing over Distributed Nodes
