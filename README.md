@@ -43,6 +43,8 @@ Private (for the time-being) as well as public projects are also available at:
   <a href="https://github.com/gooan"><img src="https://avatars.githubusercontent.com/u/87671960?s=28&v=4" alt="GOOAN" /></a>
   &nbsp;&nbsp;⁌⦾⁍&nbsp;&nbsp;
   <a href="https://github.com/innolixir"><img src="https://avatars.githubusercontent.com/u/85053112?s=28&v=4" alt="Innolixir" /></a>
+  &nbsp;&nbsp;⁌⦾⁍&nbsp;&nbsp;
+  <a href="https://github.com/programmers-exodus"><img src="https://avatars.githubusercontent.com/u/113251404?s=28&v=4" alt="Programmers' Exodus" /></a>
 </p>
 
 
