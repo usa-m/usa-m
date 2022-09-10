@@ -5,7 +5,7 @@ Hi! I’m interested 👀 in:
   - Designing Control Systems
   - Real-life Simulations / Games covering AR ~ VR Spectrum
   - Parallel Processing over Distributed Nodes
-  - AI ~ ML ... Whatever
+  - AI ~ ML ... Whatever, Wherever
   - Native, Cross-platform, Full-stack and No-stack Development
   - ...
 
