@@ -29,7 +29,7 @@ Collaborations are always welcomed :star::star::star: on:
 
 # 
 
-Projects (internal for the time being, ... as well as public ones) are hosted at:
+Private (for the time-being) as well as public projects are also available at:
 
 <p align="center">
   <a href="https://github.com/cronblocks"><img src="https://avatars.githubusercontent.com/u/86520771?s=28&v=4" alt="CronBlocks" /></a>
