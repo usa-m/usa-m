@@ -2,10 +2,10 @@
 
 Hi! I’m interested 👀 in:
   
-  - Writing
+  - Reading, Writing & Understanding in Depth
   - Designing Control Systems
-  - Real-life Simulations / Games covering AR ~ VR Spectrum
-  - Parallel Processing over Distributed Nodes
+  - Real-life Simulations / Games over AR ~ VR Spectrum
+  - Distributed Computing Nodes
   - AI ~ ML ... Whatever, Wherever
   - Native, Cross-platform, Full-stack and No-stack Development
   - ...
