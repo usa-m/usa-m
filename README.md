@@ -32,19 +32,19 @@ Collaborations are always welcomed :star::star::star: on:
 Private (for the time-being) as well as public projects are also available at:
 
 <p align="center">
-  <a href="https://github.com/cronblocks"><img src="https://avatars.githubusercontent.com/u/86520771?s=28&v=4" alt="CronBlocks" /></a>
+  <a href="https://github.com/cronblocks"><img src="https://avatars.githubusercontent.com/u/86520771?s=36&v=4" alt="CronBlocks" /></a>
   &nbsp;&nbsp;⁌⦾⁍&nbsp;&nbsp;
-  <a href="https://github.com/ubrant"><img src="https://avatars.githubusercontent.com/u/87671848?s=28&v=4" alt="Ubrant" /></a>
+  <a href="https://github.com/ubrant"><img src="https://avatars.githubusercontent.com/u/87671848?s=36&v=4" alt="Ubrant" /></a>
   &nbsp;&nbsp;⁌⦾⁍&nbsp;&nbsp;
-  <a href="https://github.com/cronblocks-ai"><img src="https://avatars.githubusercontent.com/u/103107980?s=28&v=4" alt="CronBlocks AI" /></a>
+  <a href="https://github.com/cronblocks-ai"><img src="https://avatars.githubusercontent.com/u/103107980?s=36&v=4" alt="CronBlocks AI" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/gooan"><img src="https://avatars.githubusercontent.com/u/87671960?s=28&v=4" alt="GOOAN" /></a>
+  <a href="https://github.com/gooan"><img src="https://avatars.githubusercontent.com/u/87671960?s=36&v=4" alt="GOOAN" /></a>
   &nbsp;&nbsp;⁌⦾⁍&nbsp;&nbsp;
-  <a href="https://github.com/innolixir"><img src="https://avatars.githubusercontent.com/u/85053112?s=28&v=4" alt="Innolixir" /></a>
+  <a href="https://github.com/innolixir"><img src="https://avatars.githubusercontent.com/u/85053112?s=36&v=4" alt="Innolixir" /></a>
   &nbsp;&nbsp;⁌⦾⁍&nbsp;&nbsp;
-  <a href="https://github.com/programmers-exodus"><img src="https://avatars.githubusercontent.com/u/113251404?s=28&v=4" alt="Programmers' Exodus" /></a>
+  <a href="https://github.com/programmers-exodus"><img src="https://avatars.githubusercontent.com/u/113251404?s=36&v=4" alt="Programmers' Exodus" /></a>
 </p>
 
 
