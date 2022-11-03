@@ -51,4 +51,4 @@ Private (for the time-being) as well as public projects are also available at:
 &nbsp;
 
 # 
-<p align="right"><a href="mailto:anti.qazi@gmail.com">&#128231; contact</a></p>
+<p align="right"><a href="https://www.linkedin.com/in/usa-m">&#128231; contact</a></p>
