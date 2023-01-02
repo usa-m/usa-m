@@ -44,7 +44,7 @@ Private (for the time-being) as well as public projects are available at:
   &nbsp;&nbsp;⁌⦾⁍&nbsp;&nbsp;
   <a href="https://github.com/innolixir"><img src="https://avatars.githubusercontent.com/u/85053112?s=48&v=4" alt="Innolixir" /></a>
   &nbsp;&nbsp;⁌⦾⁍&nbsp;&nbsp;
-  <a href="https://github.com/programmers-exodus"><img src="https://avatars.githubusercontent.com/u/113251404?s=48&v=4" alt="Programmers' Exodus" /></a>
+  <a href="https://github.com/arduino-ba"><img src="https://avatars.githubusercontent.com/u/121078777?s=48&v=4" alt="Arduino - Beginner to Advanced" /></a>
 </p>
 
 
