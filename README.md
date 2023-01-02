@@ -1,13 +1,13 @@
 <h1 align="center">👋</h1>
 
-Hi! I’m interested 👀 in:
-  
-  - Reading, Writing & Understanding in Depth
+Hi! I’m interested in:
+
+  - Reading, Understanding in-Depth and Writing for easy comprehension
   - Designing Control Systems
-  - Real-life Simulations / Games over AR ~ VR Spectrum
-  - Distributed Computing Nodes
-  - AI ~ ML ... Whatever, Wherever
-  - Native, Cross-platform, Full-stack and No-stack Development
+  - Creating Real-life Simulations and Games over AR~VR Spectrum
+  - Developing Distributed Computing Applications
+  - Understanding AI and ML utilization
+  - Creating Native, Cross-platform, Full-stack and No-stack Solutions
   - ...
 
 
