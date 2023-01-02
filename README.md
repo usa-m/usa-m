@@ -17,10 +17,10 @@ Hi! I’m interested in:
 
 # 
 
-Collaborations are always welcomed :star::star::star: on:
-  - Software / Firmwares - Arduinos, STMs, BeagleBones, NUCs, \*PIs, RTOSes ...
-  - Connectivity - Connecting edge hardware virtually together and with backbones
-  - Security - Securing the ecosystem ✨✨✨ - as much as viable
+Collaborations are always welcomed :star::star::star::
+  - Software and Firmware - Arduinos, STMs, BeagleBones, NUCs, \*PIs, RTOSes ...
+  - Connecting edge hardware virtually together
+  - Securing the ecosystem ✨✨✨ - as much as viable
 
 
 &nbsp;
@@ -29,7 +29,7 @@ Collaborations are always welcomed :star::star::star: on:
 
 # 
 
-Private (for the time-being) as well as public projects are also available at:
+Private (for the time-being) as well as public projects are available at:
 
 <p align="center">
   <a href="https://github.com/cronblocks"><img src="https://avatars.githubusercontent.com/u/86520771?s=48&v=4" alt="CronBlocks" /></a>
