@@ -8,7 +8,6 @@ Hi! I’m interested in:
   - Developing Distributed Computing Applications
   - Understanding AI and ML utilization
   - Creating Native, Cross-platform, Full-stack and No-stack Solutions
-  - ...
 
 
 &nbsp;
