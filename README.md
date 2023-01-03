@@ -2,12 +2,12 @@
 
 Hi Everyone! My name is Usama and I'm interested in:
 
-  - Reading, Understanding in-Depth and Writing for easy comprehension
-  - Designing Control Systems
-  - Creating Real-life Simulations and Games over AR~VR Spectrum
-  - Developing Distributed Computing Applications
-  - Understanding AI and ML utilization
-  - Creating Native, Cross-platform, Full-stack and No-stack Solutions
+  - Reading, understanding in-depth and writing for easy comprehension
+  - Designing control systems
+  - Creating simulations and games in AR/VR spectrum
+  - Developing distributed computing applications
+  - Understanding AI and ML utilizations
+  - Creating native, cross-platform, full-stack and no-stack solutions
 
 
 &nbsp;
@@ -16,8 +16,8 @@ Hi Everyone! My name is Usama and I'm interested in:
 
 # 
 
-Collaborations are always welcomed :star::star::star::
-  - Software and Firmware - Arduinos, STMs, BeagleBones, NUCs, \*PIs, RTOSes ...
+Collaborations are always welcomed :star::star::star: in:
+  - Software and Firmware developments for Arduinos, STMs, BeagleBones, NUCs, \*PIs, RTOSes ...
   - Connecting edge hardware virtually together
   - Securing the ecosystem ✨✨✨ - as much as viable
 
@@ -28,7 +28,7 @@ Collaborations are always welcomed :star::star::star::
 
 # 
 
-Private (for the time-being) as well as public projects are available at:
+Private repositories (for the timebeing) as well as the public projects are available at:
 
 <p align="center">
   <a href="https://github.com/cronblocks"><img src="https://avatars.githubusercontent.com/u/86520771?s=48&v=4" alt="CronBlocks" /></a>
