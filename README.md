@@ -2,7 +2,7 @@
 
 Hi Everyone! My name is Usama and I'm interested in:
 
-  - Reading, understanding in-depth and writing for easy comprehension
+  - Reading, understanding the core and writing for easy comprehension
   - Designing control systems
   - Creating simulations and games in AR/VR spectrum
   - Developing distributed computing applications
