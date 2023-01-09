@@ -2,7 +2,7 @@
 
 Hi Everyone! My name is Usama and I'm interested in:
 
-  - Reading, understanding the core and writing for easy comprehension
+  - Reading, understanding the core technologies and writing for easy comprehension
   - Designing control systems
   - Creating simulations and games over AR/VR spectrum
   - Developing distributed computing applications
@@ -16,10 +16,10 @@ Hi Everyone! My name is Usama and I'm interested in:
 
 # 
 
-Collaborations are always welcomed :star::star::star: in:
-  - Software and Firmware developments for Arduinos, STMs, BeagleBones, NUCs, \*PIs, RTOSes ...
-  - Connecting edge hardware virtually together
-  - Securing the ecosystem ✨✨✨ - as much as viable
+Collaborations are always welcomed :star::star::star::
+  - Software and Firmware development for Arduinos, STM32s, BeagleBones, NUCs, \*PIs, RTOSes ...
+  - Connecting edge hardware in a virtual whole
+  - Securing the ecosystem integrity ✨✨✨ - as much viable
 
 
 &nbsp;
