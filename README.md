@@ -4,7 +4,7 @@ Hi Everyone! My name is Usama and I'm interested in:
 
   - Reading, understanding the core and writing for easy comprehension
   - Designing control systems
-  - Creating simulations and games in AR/VR spectrum
+  - Creating simulations and games over AR/VR spectrum
   - Developing distributed computing applications
   - Understanding AI and ML utilizations
   - Creating native, cross-platform, full-stack and no-stack solutions
