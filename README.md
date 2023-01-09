@@ -28,7 +28,7 @@ Collaborations are always welcomed :star::star::star::
 
 # 
 
-Private repositories (for the timebeing) as well as the public projects are available at:
+Private (for the timebeing) and the public projects are available at:
 
 <p align="center">
   <a href="https://github.com/cronblocks"><img src="https://avatars.githubusercontent.com/u/86520771?s=48&v=4" alt="CronBlocks" /></a>
