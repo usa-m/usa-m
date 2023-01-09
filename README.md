@@ -7,7 +7,7 @@ Hi Everyone! My name is Usama and I'm interested in:
   - Creating simulations and games over AR/VR spectrum
   - Developing distributed computing applications
   - Understanding AI and ML with utility
-  - Creating native, cross-platform, full-stack and no-stack solutions
+  - Creating native, cross-platform, full-stack and non-stacked solutions
 
 
 &nbsp;
