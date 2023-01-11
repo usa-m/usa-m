@@ -33,9 +33,9 @@ Private (for the timebeing) and the public projects are available at:
 <p align="center">
   <a href="https://github.com/cronblocks"><img src="https://avatars.githubusercontent.com/u/86520771?s=48&v=4" alt="CronBlocks" /></a>
   &nbsp;&nbsp;⁌⦾⁍&nbsp;&nbsp;
-  <a href="https://github.com/ubrant"><img src="https://avatars.githubusercontent.com/u/87671848?s=48&v=4" alt="Ubrant" /></a>
-  &nbsp;&nbsp;⁌⦾⁍&nbsp;&nbsp;
   <a href="https://github.com/move-os"><img src="https://avatars.githubusercontent.com/u/116582302?s=48&v=4" alt="move OS" /></a>
+  &nbsp;&nbsp;⁌⦾⁍&nbsp;&nbsp;
+  <a href="https://github.com/ubrant"><img src="https://avatars.githubusercontent.com/u/87671848?s=48&v=4" alt="Ubrant" /></a>
   &nbsp;&nbsp;⁌⦾⁍&nbsp;&nbsp;
   <a href="https://github.com/cronblocks-ai"><img src="https://avatars.githubusercontent.com/u/103107980?s=48&v=4" alt="CronBlocks AI" /></a>
 </p>
