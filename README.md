@@ -39,18 +39,32 @@ Private (for the timebeing) and the public projects are available at:
   &nbsp;&nbsp;⦾&nbsp;&nbsp;
   ⁌ <a href="https://github.com/cronblocks">CronBlocks</a> ⁍
   
+  
+  <!-- moveOS -->
   <a href="https://github.com/move-os"><img src="https://avatars.githubusercontent.com/u/116582302?s=48&v=4" alt="move OS" /></a>
   &nbsp;&nbsp;⁌⦾⁍&nbsp;&nbsp;
+  
+  
+  <!-- Ubrant -->
   <a href="https://github.com/ubrant"><img src="https://avatars.githubusercontent.com/u/87671848?s=48&v=4" alt="Ubrant" /></a>
   &nbsp;&nbsp;⁌⦾⁍&nbsp;&nbsp;
+  
+  
+  <!-- CronBlocks AI -->
   <a href="https://github.com/cronblocks-ai"><img src="https://avatars.githubusercontent.com/u/103107980?s=48&v=4" alt="CronBlocks AI" /></a>
-</p>
-
-<p align="center">
+  
+  
+  <!-- CronBlocks -->
   <a href="https://github.com/gooan"><img src="https://avatars.githubusercontent.com/u/87671960?s=48&v=4" alt="GOOAN" /></a>
   &nbsp;&nbsp;⁌⦾⁍&nbsp;&nbsp;
+  
+  
+  <!-- InnoLixir -->
   <a href="https://github.com/innolixir"><img src="https://avatars.githubusercontent.com/u/85053112?s=48&v=4" alt="Innolixir" /></a>
   &nbsp;&nbsp;⁌⦾⁍&nbsp;&nbsp;
+  
+  
+  <!-- Arduino - Beginner to Advanced -->
   <a href="https://github.com/arduino-ba"><img src="https://avatars.githubusercontent.com/u/121078777?s=48&v=4" alt="Arduino - Beginner to Advanced" /></a>
 </p>
 
