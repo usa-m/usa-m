@@ -60,7 +60,11 @@ Private (for the timebeing) and the public projects are available at:
   
   <!-- CronBlocks AI -->
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/cronblocks-ai"><img src="https://avatars.githubusercontent.com/u/103107980?s=48&v=4" alt="CronBlocks AI" /></a>
+  <a href="https://github.com/cronblocks-ai">
+    <img src="https://avatars.githubusercontent.com/u/103107980?s=48&v=4" alt="CronBlocks AI" />
+  </a>
+  &nbsp;&nbsp;⦾&nbsp;&nbsp;
+  ⁌ <a href="https://github.com/cronblocks-ai">CronBlocks AI</a> ⁍
   
   
   <!-- CronBlocks -->
