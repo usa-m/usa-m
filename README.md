@@ -78,8 +78,11 @@ Private (for the timebeing) and the public projects are available at:
   
   <!-- InnoLixir -->
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/innolixir"><img src="https://avatars.githubusercontent.com/u/85053112?s=48&v=4" alt="Innolixir" /></a>
-  &nbsp;&nbsp;⁌⦾⁍&nbsp;&nbsp;
+  <a href="https://github.com/innolixir">
+    <img src="https://avatars.githubusercontent.com/u/85053112?s=48&v=4" alt="InnoLixir" />
+  </a>
+  &nbsp;&nbsp;⦾&nbsp;&nbsp;
+  ⁌ <a href="https://github.com/innolixir">InnoLixir</a> ⁍
   
   
   <!-- Arduino - Beginner to Advanced -->
