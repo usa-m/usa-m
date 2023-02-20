@@ -87,7 +87,11 @@ Private (for the timebeing) and the public projects are available at:
   
   <!-- Arduino - Beginner to Advanced -->
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/arduino-ba"><img src="https://avatars.githubusercontent.com/u/121078777?s=48&v=4" alt="Arduino - Beginner to Advanced" /></a>
+  <a href="https://github.com/arduino-ba">
+    <img src="https://avatars.githubusercontent.com/u/121078777?s=48&v=4" alt="Arduino - Beginner to Advanced" />
+  </a>
+  &nbsp;&nbsp;⦾&nbsp;&nbsp;
+  ⁌ <a href="https://github.com/arduino-ba">Arduino - Beginner to Advanced</a> ⁍
 </p>
 
 
