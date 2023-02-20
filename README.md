@@ -47,6 +47,14 @@ Private (for the timebeing) and the public projects are available at:
   &nbsp;&nbsp; ⁌ <a href="https://github.com/move-os">moveOS</a> ⁍
   
   
+  <!-- Arduino - Beginner to Advanced -->
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;⦾&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/arduino-ba">
+    <img src="https://avatars.githubusercontent.com/u/121078777?s=48&v=4" alt="Arduino - Beginner to Advanced" />
+  </a>
+  &nbsp;&nbsp; ⁌ <a href="https://github.com/arduino-ba">Arduino - Beginner to Advanced</a> ⁍
+  
+  
   <!-- Ubrant -->
   &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;⦾&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ubrant">
@@ -77,14 +85,6 @@ Private (for the timebeing) and the public projects are available at:
     <img src="https://avatars.githubusercontent.com/u/85053112?s=48&v=4" alt="InnoLixir" />
   </a>
   &nbsp;&nbsp; ⁌ <a href="https://github.com/innolixir">InnoLixir</a> ⁍
-  
-  
-  <!-- Arduino - Beginner to Advanced -->
-  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;⦾&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/arduino-ba">
-    <img src="https://avatars.githubusercontent.com/u/121078777?s=48&v=4" alt="Arduino - Beginner to Advanced" />
-  </a>
-  &nbsp;&nbsp; ⁌ <a href="https://github.com/arduino-ba">Arduino - Beginner to Advanced</a> ⁍
 </p>
 
 
