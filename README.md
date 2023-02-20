@@ -67,10 +67,13 @@ Private (for the timebeing) and the public projects are available at:
   ⁌ <a href="https://github.com/cronblocks-ai">CronBlocks AI</a> ⁍
   
   
-  <!-- CronBlocks -->
+  <!-- GOOAN -->
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/gooan"><img src="https://avatars.githubusercontent.com/u/87671960?s=48&v=4" alt="GOOAN" /></a>
-  &nbsp;&nbsp;⁌⦾⁍&nbsp;&nbsp;
+  <a href="https://github.com/gooan">
+    <img src="https://avatars.githubusercontent.com/u/87671960?s=48&v=4" alt="GOOAN" />
+  </a>
+  &nbsp;&nbsp;⦾&nbsp;&nbsp;
+  ⁌ <a href="https://github.com/gooan">GOOAN</a> ⁍
   
   
   <!-- InnoLixir -->
