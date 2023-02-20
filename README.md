@@ -31,7 +31,7 @@ Collaborations are always welcomed :star::star::star::
 Private (for the timebeing) and the public projects are available at:
 
 <p align="left">
-  
+  <!-- CronBlocks -->
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/cronblocks">
     <img src="https://avatars.githubusercontent.com/u/86520771?s=48&v=4" alt="CronBlocks" />
