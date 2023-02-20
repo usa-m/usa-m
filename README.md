@@ -42,8 +42,11 @@ Private (for the timebeing) and the public projects are available at:
   
   <!-- moveOS -->
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/move-os"><img src="https://avatars.githubusercontent.com/u/116582302?s=48&v=4" alt="move OS" /></a>
-  &nbsp;&nbsp;⁌⦾⁍&nbsp;&nbsp;
+  <a href="https://github.com/move-os">
+    <img src="https://avatars.githubusercontent.com/u/116582302?s=48&v=4" alt="moveOS" />
+  </a>
+  &nbsp;&nbsp;⦾&nbsp;&nbsp;
+  ⁌ <a href="https://github.com/move-os">move OS</a> ⁍
   
   
   <!-- Ubrant -->
