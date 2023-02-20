@@ -36,7 +36,7 @@ Private (for the timebeing) and the public projects are available at:
   <a href="https://github.com/cronblocks">
     <img src="https://avatars.githubusercontent.com/u/86520771?s=48&v=4" alt="CronBlocks" />
   </a>
-  ⁌ <a href="https://github.com/cronblocks">CronBlocks</a> ⁍
+  &nbsp;&nbsp; ⁌ <a href="https://github.com/cronblocks">CronBlocks</a> ⁍
   
   
   <!-- moveOS -->
@@ -44,7 +44,7 @@ Private (for the timebeing) and the public projects are available at:
   <a href="https://github.com/move-os">
     <img src="https://avatars.githubusercontent.com/u/116582302?s=48&v=4" alt="moveOS" />
   </a>
-  ⁌ <a href="https://github.com/move-os">moveOS</a> ⁍
+  &nbsp;&nbsp; ⁌ <a href="https://github.com/move-os">moveOS</a> ⁍
   
   
   <!-- Ubrant -->
@@ -52,7 +52,7 @@ Private (for the timebeing) and the public projects are available at:
   <a href="https://github.com/ubrant">
     <img src="https://avatars.githubusercontent.com/u/87671848?s=48&v=4" alt="Ubrant" />
   </a>
-  ⁌ <a href="https://github.com/ubrant">Ubrant</a> ⁍
+  &nbsp;&nbsp; ⁌ <a href="https://github.com/ubrant">Ubrant</a> ⁍
   
   
   <!-- CronBlocks AI -->
@@ -60,7 +60,7 @@ Private (for the timebeing) and the public projects are available at:
   <a href="https://github.com/cronblocks-ai">
     <img src="https://avatars.githubusercontent.com/u/103107980?s=48&v=4" alt="CronBlocks AI" />
   </a>
-  ⁌ <a href="https://github.com/cronblocks-ai">CronBlocks AI</a> ⁍
+  &nbsp;&nbsp; ⁌ <a href="https://github.com/cronblocks-ai">CronBlocks AI</a> ⁍
   
   
   <!-- GOOAN -->
@@ -68,7 +68,7 @@ Private (for the timebeing) and the public projects are available at:
   <a href="https://github.com/gooan">
     <img src="https://avatars.githubusercontent.com/u/87671960?s=48&v=4" alt="GOOAN" />
   </a>
-  ⁌ <a href="https://github.com/gooan">GOOAN</a> ⁍
+  &nbsp;&nbsp; ⁌ <a href="https://github.com/gooan">GOOAN</a> ⁍
   
   
   <!-- InnoLixir -->
@@ -76,7 +76,7 @@ Private (for the timebeing) and the public projects are available at:
   <a href="https://github.com/innolixir">
     <img src="https://avatars.githubusercontent.com/u/85053112?s=48&v=4" alt="InnoLixir" />
   </a>
-  ⁌ <a href="https://github.com/innolixir">InnoLixir</a> ⁍
+  &nbsp;&nbsp; ⁌ <a href="https://github.com/innolixir">InnoLixir</a> ⁍
   
   
   <!-- Arduino - Beginner to Advanced -->
@@ -84,7 +84,7 @@ Private (for the timebeing) and the public projects are available at:
   <a href="https://github.com/arduino-ba">
     <img src="https://avatars.githubusercontent.com/u/121078777?s=48&v=4" alt="Arduino - Beginner to Advanced" />
   </a>
-  ⁌ <a href="https://github.com/arduino-ba">Arduino - Beginner to Advanced</a> ⁍
+  &nbsp;&nbsp; ⁌ <a href="https://github.com/arduino-ba">Arduino - Beginner to Advanced</a> ⁍
 </p>
 
 
