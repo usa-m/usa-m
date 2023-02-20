@@ -47,6 +47,14 @@ Private (for the timebeing) and the public projects are available at:
   &nbsp;&nbsp; ⁌ <a href="https://github.com/move-os">moveOS</a> ⁍
   
   
+  <!-- Git Mine -->
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;⦾&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/git-mine">
+    <img src="https://avatars.githubusercontent.com/u/125908595?s=48&v=4" alt="Git Mine" />
+  </a>
+  &nbsp;&nbsp; ⁌ <a href="https://github.com/git-mine">Git Mine</a> ⁍
+  
+  
   <!-- Arduino - Beginner to Advanced -->
   &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;⦾&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/arduino-ba">
