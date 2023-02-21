@@ -55,6 +55,14 @@ Private (for the timebeing) and the public projects are available at:
   &nbsp;&nbsp; ⁌ <a href="https://github.com/git-mine">Git Mine</a> ⁍
   
   
+  <!-- DDS .Net -->
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;⦾&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/dds-dotnet">
+    <img src="https://avatars.githubusercontent.com/u/125957062?s=48&v=4" alt="dds dotnet" />
+  </a>
+  &nbsp;&nbsp; ⁌ <a href="https://github.com/dds-dotnet">DDS .Net</a> ⁍
+  
+  
   <!-- Arduino - Beginner to Advanced -->
   &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;⦾&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/arduino-ba">
