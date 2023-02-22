@@ -1,12 +1,12 @@
 <h1 align="center">👋</h1>
 
-Hi Everyone! My name is Usama and I'm interested in:
+Hi everyone! I'm Usama and I'm interested in:
 
-  - Reading, understanding the core technologies and writing for easy comprehension
+  - Reading for understanding in-depth and writing for easy comprehension
   - Designing control systems
-  - Creating simulations and games over AR/VR spectrum
-  - Developing distributed computing applications
-  - Understanding AI and ML with utility
+  - Creating simulations and games in AR/VR spectrum
+  - Developing distributed applications
+  - Understanding AI and ML utilities
   - Creating native, cross-platform, full-stack and non-stacked solutions
 
 
