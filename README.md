@@ -16,10 +16,10 @@ Hi everyone! I'm Usama and I'm interested in:
 
 # 
 
-Collaborations are always welcomed :star::star::star::
-  - Software and Firmware development for Arduinos, STM32s, BeagleBones, NUCs, \*PIs, RTOSes ...
-  - Connecting edge hardware in a virtual whole
-  - Securing the ecosystem integrity ✨✨✨ - as much viable
+Collaborations are always welcomed :star::star::star: in:
+  - Software / firmware development - Arduino, STM32, BeagleBone, NUCs, \*PIs, RTOSes ...
+  - Edge and cloud deployments
+  - Ecosystem integrity and security ✨✨✨ - as much viable
 
 
 &nbsp;
@@ -28,7 +28,7 @@ Collaborations are always welcomed :star::star::star::
 
 # 
 
-Private (for the timebeing) and the public projects are available at:
+Private repos (for the timebeing) and public projects are available at:
 
 <p align="left">
   <!-- CronBlocks -->
