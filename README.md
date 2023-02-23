@@ -37,41 +37,41 @@ Private repos (for the timebeing) and public projects are available at:
     <img src="https://avatars.githubusercontent.com/u/86520771?s=48&v=4" alt="CronBlocks" />
   CronBlocks</a>
   
-    <!-- moveOS -->
-    &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; ⁍&nbsp;&nbsp;
-    <a href="https://github.com/move-os">
-      <img src="https://avatars.githubusercontent.com/u/116582302?s=48&v=4" alt="moveOS" />
-    moveOS</a>
+  <!-- moveOS -->
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; ⁍&nbsp;&nbsp;
+  <a href="https://github.com/move-os">
+    <img src="https://avatars.githubusercontent.com/u/116582302?s=48&v=4" alt="moveOS" />
+  moveOS</a>
     
-    <!-- Git Mine -->
-    &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; ⁍&nbsp;&nbsp;
-    <a href="https://github.com/git-mine">
-      <img src="https://avatars.githubusercontent.com/u/125908595?s=48&v=4" alt="Git Mine" />
-    Git Mine</a>
+  <!-- Git Mine -->
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; ⁍&nbsp;&nbsp;
+  <a href="https://github.com/git-mine">
+    <img src="https://avatars.githubusercontent.com/u/125908595?s=48&v=4" alt="Git Mine" />
+  Git Mine</a>
     
-    <!-- DDS.Net -->
-    &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; ⁍&nbsp;&nbsp;
-    <a href="https://github.com/dds-dotnet">
-      <img src="https://avatars.githubusercontent.com/u/125957062?s=48&v=4" alt="dds dotnet" />
-    DDS.Net</a>
+  <!-- DDS.Net -->
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; ⁍&nbsp;&nbsp;
+  <a href="https://github.com/dds-dotnet">
+    <img src="https://avatars.githubusercontent.com/u/125957062?s=48&v=4" alt="dds dotnet" />
+  DDS.Net</a>
     
-    <!-- Arduino - Beginner to Advanced -->
-    &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; ⁍&nbsp;&nbsp;
-    <a href="https://github.com/arduino-ba">
-      <img src="https://avatars.githubusercontent.com/u/121078777?s=48&v=4" alt="Arduino - Beginner to Advanced" />
-    Arduino - Beginner to Advanced</a>
+  <!-- Arduino - Beginner to Advanced -->
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; ⁍&nbsp;&nbsp;
+  <a href="https://github.com/arduino-ba">
+    <img src="https://avatars.githubusercontent.com/u/121078777?s=48&v=4" alt="Arduino - Beginner to Advanced" />
+  Arduino - Beginner to Advanced</a>
     
-    <!-- Ubrant -->
-    &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; ⁍&nbsp;&nbsp;
-    <a href="https://github.com/ubrant">
-      <img src="https://avatars.githubusercontent.com/u/87671848?s=48&v=4" alt="Ubrant" />
-    Ubrant</a>
+  <!-- Ubrant -->
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; ⁍&nbsp;&nbsp;
+  <a href="https://github.com/ubrant">
+    <img src="https://avatars.githubusercontent.com/u/87671848?s=48&v=4" alt="Ubrant" />
+  Ubrant</a>
     
-    <!-- CronBlocks AI -->
-    &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; ⁍&nbsp;&nbsp;
-    <a href="https://github.com/cronblocks-ai">
-      <img src="https://avatars.githubusercontent.com/u/103107980?s=48&v=4" alt="CronBlocks AI" />
-    CronBlocks AI</a>
+  <!-- CronBlocks AI -->
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; ⁍&nbsp;&nbsp;
+  <a href="https://github.com/cronblocks-ai">
+    <img src="https://avatars.githubusercontent.com/u/103107980?s=48&v=4" alt="CronBlocks AI" />
+  CronBlocks AI</a>
 </p>
 
 
