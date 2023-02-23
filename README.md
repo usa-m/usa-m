@@ -38,19 +38,19 @@ Private repos (for the timebeing) and public projects are available at:
   CronBlocks</a>
   
   <!-- moveOS -->
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ⁍ &nbsp;&nbsp;
+  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ⁍ &nbsp;&nbsp;
   <a href="https://github.com/move-os">
     <img src="https://avatars.githubusercontent.com/u/116582302?s=48&v=4" alt="moveOS" />
   moveOS</a>
     
   <!-- Git Mine -->
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ⁍ &nbsp;&nbsp;
+  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ⁍ &nbsp;&nbsp;
   <a href="https://github.com/git-mine">
     <img src="https://avatars.githubusercontent.com/u/125908595?s=48&v=4" alt="Git Mine" />
   Git Mine</a>
     
   <!-- DDS.Net -->
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ⁍ &nbsp;&nbsp;
+  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ⁍ &nbsp;&nbsp;
   <a href="https://github.com/dds-dotnet">
     <img src="https://avatars.githubusercontent.com/u/125957062?s=48&v=4" alt="dds dotnet" />
   DDS.Net</a>
