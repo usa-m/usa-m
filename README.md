@@ -36,7 +36,13 @@ Private repos (for the timebeing) and public projects are available at:
   <a href="https://github.com/cronblocks">
     <img src="https://avatars.githubusercontent.com/u/86520771?s=48&v=4" alt="CronBlocks" />
   CronBlocks</a>
-  
+    
+  <!-- DDS.Net -->
+  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ⁍ &nbsp;&nbsp;
+  <a href="https://github.com/dds-dotnet">
+    <img src="https://avatars.githubusercontent.com/u/125957062?s=48&v=4" alt="dds dotnet" />
+  DDS.Net</a>
+      
   <!-- moveOS -->
   &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ⁍ &nbsp;&nbsp;
   <a href="https://github.com/move-os">
@@ -48,13 +54,6 @@ Private repos (for the timebeing) and public projects are available at:
   <a href="https://github.com/git-mine">
     <img src="https://avatars.githubusercontent.com/u/125908595?s=48&v=4" alt="Git Mine" />
   Git Mine</a>
-    
-  <!-- DDS.Net -->
-  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ⁍ &nbsp;&nbsp;
-  <a href="https://github.com/dds-dotnet">
-    <img src="https://avatars.githubusercontent.com/u/125957062?s=48&v=4" alt="dds dotnet" />
-  DDS.Net</a>
-    
   <!-- Arduino - Beginner to Advanced -->
   &nbsp; &nbsp; &nbsp; &nbsp; ⁍ &nbsp;&nbsp;
   <a href="https://github.com/arduino-ba">
