@@ -42,6 +42,12 @@ Private repos (for the timebeing) and public projects are available at:
   <a href="https://github.com/dds-dotnet">
     <img src="https://avatars.githubusercontent.com/u/125957062?s=48&v=4" alt="dds dotnet" />
   DDS.Net</a>
+    
+  <!-- HappyLogic -->
+  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ⁍ &nbsp;&nbsp;
+  <a href="https://github.com/happylogic">
+    <img src="https://avatars.githubusercontent.com/u/132655798?s=48&v=4" alt="Happy Logic" />
+  Happy Logic</a>
       
   <!-- moveOS -->
   &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ⁍ &nbsp;&nbsp;
