@@ -1,6 +1,6 @@
 <h1 align="center">👋</h1>
 
-Hi everyone! I'm Usama and I'm interested in:
+Hi everyone! I'm Usama, interested in:
 
   - Reading for understanding in-depth and writing for easy comprehension
   - Designing control systems
