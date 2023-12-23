@@ -2,7 +2,7 @@
 
 Hello Everyone!
 
-&nbsp;&nbsp;&nbsp;I'm Usama, an Avionics Engineer with practical working experience in Aviation industry, and having interests in:
+&nbsp;&nbsp;&nbsp;I'm Usama, an Avionics Engineer with working experience in Aviation industry, and having interests in:
 
   - &nbsp; &nbsp; Reading in-depth, developing practical understanding and writing for others' easy comprehension
   - &nbsp; &nbsp; Designing and developing control systems
