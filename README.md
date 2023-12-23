@@ -1,6 +1,8 @@
 <h1 align="center">👋👋👋</h1>
 
-Hi! I'm Usama, an Avionics Engineer, having interests in:
+Hello Everyone!
+
+&nbsp;&nbsp;&nbsp;I'm Usama, an Avionics Engineer, having interests in:
 
   - Reading for understanding in-depth and writing for easy comprehension
   - Designing control systems
