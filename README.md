@@ -18,7 +18,7 @@ Hello Everyone!
 
 # 
 
-Collaborations are always welcomed :star::star::star: in:
+&nbsp;&nbsp;&nbsp;Collaborations are always welcomed :star::star::star: in:
   - &nbsp; &nbsp; Software and firmware development - Linux, Windows, Arduino, STM32, BeagleBone, NUCs, \*\*PIs, RTOSes ...
   - &nbsp; &nbsp; Edge and cloud deployable libraries and applications
   - &nbsp; &nbsp; Ecosystem integrity and security ✨✨✨ - as much viable
@@ -30,7 +30,7 @@ Collaborations are always welcomed :star::star::star: in:
 
 # 
 
-Private repos (for the timebeing) and public projects are available at:
+&nbsp;&nbsp;&nbsp;Private repos (for the timebeing) and public projects are available at:
 
 <p align="left">
   <!-- CronBlocks -->
