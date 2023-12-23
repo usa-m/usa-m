@@ -19,9 +19,9 @@ Hello Everyone!
 # 
 
 Collaborations are always welcomed :star::star::star: in:
-  - Software / firmware development - Arduino, STM32, BeagleBone, NUCs, \*PIs, RTOSes ...
-  - Edge and cloud deployments
-  - Ecosystem integrity and security ✨✨✨ - as much viable
+  - &nbsp; &nbsp; Software and firmware development - Linux, Windows, Arduino, STM32, BeagleBone, NUCs, \*\*PIs, RTOSes ...
+  - &nbsp; &nbsp; Edge and cloud deployable libraries and applications
+  - &nbsp; &nbsp; Ecosystem integrity and security ✨✨✨ - as much viable
 
 
 &nbsp;
