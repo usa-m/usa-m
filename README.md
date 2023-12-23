@@ -5,10 +5,10 @@ Hello Everyone!
 &nbsp;&nbsp;&nbsp;I'm Usama, an Avionics Engineer with practical working experience in Aviation industry, and having interests in:
 
   - &nbsp; &nbsp; Reading in-depth, developing practical understanding and writing for others' easy comprehension
-  - &nbsp; &nbsp; Designing control systems
-  - &nbsp; &nbsp; Creating simulations or games in AR/VR spectrum
+  - &nbsp; &nbsp; Designing and developing control systems
+  - &nbsp; &nbsp; Creating simulations and games in AR/VR spectrum
   - &nbsp; &nbsp; Developing distributed applications
-  - &nbsp; &nbsp; Understanding AI and ML utilities
+  - &nbsp; &nbsp; Understanding AI and ML utilities - not just using AI/ML to grab attraction
   - &nbsp; &nbsp; Creating native, real-time, cross-platform, full-stack and bare-metal applications
 
 
