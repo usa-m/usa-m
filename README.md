@@ -2,7 +2,7 @@
 
 Hello Everyone!
 
-&nbsp;&nbsp;&nbsp;I'm Usama, an Avionics Engineer with working experience in Aviation industry, and having interests in:
+I'm Usama, an Avionics Engineer with working experience in Aviation industry, and having interests in:
 
   - &nbsp; &nbsp; Reading in-depth, developing practical understanding and writing for others' easy comprehension
   - &nbsp; &nbsp; Designing and developing control systems
@@ -30,7 +30,7 @@ Hello Everyone!
 
 # 
 
-&nbsp;&nbsp;&nbsp;Private repos (for the timebeing) and public projects are available at:
+Private repos (for the timebeing) and public projects are available at:
 
 
 <p align="left">
