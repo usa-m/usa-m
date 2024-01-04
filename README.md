@@ -1,6 +1,6 @@
 <h1 align="center">👋👋👋</h1>
 
-Hello, Dear All!
+Hello, Dear!
 
 I'm Usama, an Avionics Engineer with working experience in Aviation industry, and having interests in:
 
