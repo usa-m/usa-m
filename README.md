@@ -89,4 +89,4 @@ CronBlocks AI</a>
 &nbsp;
 
 # 
-<p align="right"><a href="https://www.linkedin.com/in/usa-m">&#128231; contact</a></p>
+<p align="right"><a href="https://www.linkedin.com/in/usa-m">&#128231; Contact Me</a></p>
