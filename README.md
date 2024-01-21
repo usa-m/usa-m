@@ -1,13 +1,13 @@
-Hello, 👋 👋 👋 !
+Hello 👋 👋 👋 !
 
-I'm *Usama*, an *Avionics Engineer* having working experience in the *Aviation* industry, with particular interests in:
+I'm *Usama*, an *Avionics Engineer* having working experience in the *Aviation* industry for many years, with particular interests in:
 
-  - &nbsp; &nbsp; Reading in-depth, developing practical understanding and writing for others' easy comprehension
+  - &nbsp; &nbsp; Reading technology in-depth, developing practical understanding and writing for easy comprehension by others
+  - &nbsp; &nbsp; Creating native, real-time, cross-platform, full-stack and bare-metal applications
   - &nbsp; &nbsp; Designing and developing control systems
   - &nbsp; &nbsp; Creating simulations and games in AR/VR spectrum
   - &nbsp; &nbsp; Developing distributed applications
-  - &nbsp; &nbsp; Understanding AI and ML utilities - not just using AI/ML to grab attraction
-  - &nbsp; &nbsp; Creating native, real-time, cross-platform, full-stack and bare-metal applications
+  - &nbsp; &nbsp; Understanding AI and ML - not just using AI/ML terminology to grab attraction
 
 
 &nbsp;
