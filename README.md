@@ -1,6 +1,6 @@
 Hello 👋 👋 👋 !
 
-I'm *Usama*, an *Avionics Engineer* having working experience in the *Aviation* industry for many years, with particular interests in:
+I'm *Usama*, an *Avionics Engineer* having working experience in the Aviation industry for many years, though, with particular interests in:
 
   - &nbsp; &nbsp; Reading technology in-depth, developing practical understanding and writing for easy comprehension by others
   - &nbsp; &nbsp; Creating native, real-time, cross-platform, full-stack and bare-metal applications
