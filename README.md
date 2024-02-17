@@ -81,11 +81,7 @@ Ubrant</a>
 &nbsp; &nbsp; ⁍ &nbsp;&nbsp;
 <a href="https://github.com/cronblocks-games">
   <img src="https://avatars.githubusercontent.com/u/148332804?s=48&v=4" alt="CronBlocks Games" />
-CronBlocks Games</a>
-
-<!-- CronBlocks AI -->
-&nbsp; &nbsp; ⁍ &nbsp;&nbsp;
-<a href="https://github.com/cronblocks-ai">
+CronBlocks Games</a>, &nbsp; <!-- CronBlocks AI --> <a href="https://github.com/cronblocks-ai">
   <img src="https://avatars.githubusercontent.com/u/103107980?s=48&v=4" alt="CronBlocks AI" />
 CronBlocks AI</a>
 
