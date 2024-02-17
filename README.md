@@ -77,6 +77,12 @@ Arduino - Beginner to Advanced</a>
   <img src="https://avatars.githubusercontent.com/u/87671848?s=48&v=4" alt="Ubrant" />
 Ubrant</a>
 
+<!-- CronBlocks Games -->
+&nbsp; &nbsp; ⁍ &nbsp;&nbsp;
+<a href="https://github.com/cronblocks-games">
+  <img src="https://avatars.githubusercontent.com/u/148332804?s=48&v=4" alt="CronBlocks Games" />
+CronBlocks Games</a>
+
 <!-- CronBlocks AI -->
 &nbsp; &nbsp; ⁍ &nbsp;&nbsp;
 <a href="https://github.com/cronblocks-ai">
