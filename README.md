@@ -53,19 +53,19 @@ CronBlocks</a>
 
 
 
-<!-- Ubrant -->
+<!-- Ubrant --><!-- Arduino - Beginner to Advanced -->
 &nbsp; &nbsp; ⁍ &nbsp;&nbsp;
 <a href="https://github.com/ubrant">
   <img src="https://avatars.githubusercontent.com/u/87671848?s=48&v=4" alt="Ubrant" />
-Ubrant</a>, &nbsp; <!-- Arduino - Beginner to Advanced --> <a href="https://github.com/arduino-ba">
+Ubrant</a>, &nbsp; <a href="https://github.com/arduino-ba">
   <img src="https://avatars.githubusercontent.com/u/121078777?s=48&v=4" alt="Arduino - Beginner to Advanced" />
 Arduino : Beginner to Advanced</a>
 
-<!-- CronBlocks Games -->
+<!-- CronBlocks Games --><!-- CronBlocks AI -->
 &nbsp; &nbsp; ⁍ &nbsp;&nbsp;
 <a href="https://github.com/cronblocks-games">
   <img src="https://avatars.githubusercontent.com/u/148332804?s=48&v=4" alt="CronBlocks Games" />
-CronBlocks Games</a>, &nbsp; <!-- CronBlocks AI --> <a href="https://github.com/cronblocks-ai">
+CronBlocks Games</a>, &nbsp; <a href="https://github.com/cronblocks-ai">
   <img src="https://avatars.githubusercontent.com/u/103107980?s=48&v=4" alt="CronBlocks AI" />
 CronBlocks AI</a>
 
