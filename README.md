@@ -32,7 +32,7 @@ I'm *Usama*, an *Avionics Engineer* having working experience in the Aviation in
 <!-- CronBlocks -->
 &nbsp; &nbsp; ⁍ &nbsp;&nbsp;
 <a href="https://github.com/cronblocks">
-  <img src="https://avatars.githubusercontent.com/u/86520771?s=48&v=4" alt="CronBlocks" />
+  <img src="https://avatars.githubusercontent.com/u/86520771?s=32&v=4" alt="CronBlocks" />
 CronBlocks</a>
     
   <!-- DDS.Net --><!-- HappyLogic -->
@@ -56,17 +56,17 @@ CronBlocks</a>
 <!-- Ubrant --><!-- Arduino - Beginner to Advanced -->
 &nbsp; &nbsp; ⁍ &nbsp;&nbsp;
 <a href="https://github.com/ubrant">
-  <img src="https://avatars.githubusercontent.com/u/87671848?s=48&v=4" alt="Ubrant" />
+  <img src="https://avatars.githubusercontent.com/u/87671848?s=32&v=4" alt="Ubrant" />
 Ubrant</a>, &nbsp; <a href="https://github.com/arduino-ba">
-  <img src="https://avatars.githubusercontent.com/u/121078777?s=48&v=4" alt="Arduino - Beginner to Advanced" />
+  <img src="https://avatars.githubusercontent.com/u/121078777?s=32&v=4" alt="Arduino - Beginner to Advanced" />
 Arduino : Beginner to Advanced</a>
 
 <!-- CronBlocks Games --><!-- CronBlocks AI -->
 &nbsp; &nbsp; ⁍ &nbsp;&nbsp;
 <a href="https://github.com/cronblocks-games">
-  <img src="https://avatars.githubusercontent.com/u/148332804?s=48&v=4" alt="CronBlocks Games" />
+  <img src="https://avatars.githubusercontent.com/u/148332804?s=32&v=4" alt="CronBlocks Games" />
 CronBlocks Games</a>, &nbsp; <a href="https://github.com/cronblocks-ai">
-  <img src="https://avatars.githubusercontent.com/u/103107980?s=48&v=4" alt="CronBlocks AI" />
+  <img src="https://avatars.githubusercontent.com/u/103107980?s=32&v=4" alt="CronBlocks AI" />
 CronBlocks AI</a>
 
 </p>
