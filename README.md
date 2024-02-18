@@ -1,6 +1,6 @@
-Hello 👋 👋 👋 !
+Hello, there 👋 !
 
-I'm *Usama*, an *Avionics Engineer* having working experience in the Aviation industry for many years, though, with particular interests in:
+I'm Usama, an *Avionics Engineer* having working experience in the Aviation industry for quite many years, though, with particular interests in:
 
   - &nbsp; &nbsp; Reading technology in-depth, developing practical understanding and writing for easy comprehension by others
   - &nbsp; &nbsp; Creating native, real-time, cross-platform, full-stack and bare-metal applications
@@ -30,13 +30,13 @@ I'm *Usama*, an *Avionics Engineer* having working experience in the Aviation in
 <p align="left">
   
 <!-- CronBlocks -->
-&nbsp; &nbsp; ⁍ &nbsp;&nbsp;
+&nbsp; &nbsp; ⁍ &nbsp; &nbsp;
 <a href="https://github.com/cronblocks">
   <img src="https://avatars.githubusercontent.com/u/86520771?s=32&v=4" alt="CronBlocks" />
 CronBlocks</a>
     
   <!-- DDS.Net --><!-- HappyLogic -->
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ⁍ &nbsp;&nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ⁍ &nbsp;&nbsp;
   <a href="https://github.com/dds-dotnet">
     <img src="https://avatars.githubusercontent.com/u/125957062?s=24&v=4" alt="dds dotnet" />
   DDS.Net</a>, &nbsp; <a href="https://github.com/happylogic">
@@ -44,7 +44,7 @@ CronBlocks</a>
   Happy Logic</a>
       
   <!-- moveOS --><!-- Git Mine -->
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ⁍ &nbsp;&nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ⁍ &nbsp;&nbsp;
   <a href="https://github.com/move-os">
     <img src="https://avatars.githubusercontent.com/u/116582302?s=24&v=4" alt="moveOS" />
   moveOS</a>, &nbsp; <a href="https://github.com/git-mine">
@@ -54,7 +54,7 @@ CronBlocks</a>
 
 
 <!-- Ubrant --><!-- Arduino - Beginner to Advanced -->
-&nbsp; &nbsp; ⁍ &nbsp;&nbsp;
+&nbsp; &nbsp; ⁍ &nbsp; &nbsp;
 <a href="https://github.com/ubrant">
   <img src="https://avatars.githubusercontent.com/u/87671848?s=32&v=4" alt="Ubrant" />
 Ubrant</a>, &nbsp; <a href="https://github.com/arduino-ba">
@@ -62,7 +62,7 @@ Ubrant</a>, &nbsp; <a href="https://github.com/arduino-ba">
 Arduino : Beginner to Advanced</a>
 
 <!-- CronBlocks Games --><!-- CronBlocks AI -->
-&nbsp; &nbsp; ⁍ &nbsp;&nbsp;
+&nbsp; &nbsp; ⁍ &nbsp; &nbsp;
 <a href="https://github.com/cronblocks-games">
   <img src="https://avatars.githubusercontent.com/u/148332804?s=32&v=4" alt="CronBlocks Games" />
 CronBlocks Games</a>, &nbsp; <a href="https://github.com/cronblocks-ai">
