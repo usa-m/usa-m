@@ -12,11 +12,9 @@ I'm *Usama*, an *Avionics Engineer* having working experience in the Aviation in
 
 &nbsp;
 
-<h3 align="center">💞️💞️💞️</h3>
-
 # 
 
-Collaborations are always welcomed :star::star::star: in the areas:
+💞️ Collaborations are always welcomed :star::star::star: in the areas:
   - &nbsp; &nbsp; Software and firmware development - Linux, Windows, Arduino, STM32, BeagleBone, NUCs, \*\*PIs, RTOSes ...
   - &nbsp; &nbsp; Edge and cloud deployable libraries and applications
   - &nbsp; &nbsp; Ecosystem integrity and security ✨✨✨ - as much as viable
@@ -24,11 +22,9 @@ Collaborations are always welcomed :star::star::star: in the areas:
 
 &nbsp;
 
-<h3 align="center">🌱🌱🌱</h3>
-
 # 
 
-Private repos (for the timebeing) and public projects are available at:
+🌱 Private repos (for the timebeing) and public projects are available at:
 
 
 <p align="left">
