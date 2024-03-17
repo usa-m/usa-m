@@ -33,7 +33,7 @@ I'm an *Avionics Engineer* having working experience in the Aviation industry fo
 <a href="https://github.com/dds-dotnet"><img src="https://avatars.githubusercontent.com/u/125957062?s=32&v=4" alt="DDS .Net" /></a>
 <a href="https://github.com/cronblocks-games"><img src="https://avatars.githubusercontent.com/u/148332804?s=32&v=4" alt="CronBlocks Games" /></a>
 <a href="https://github.com/arduino-ba"><img src="https://avatars.githubusercontent.com/u/121078777?s=32&v=4" alt="Arduino - Beginner to Advanced" /></a>
-<a href="https://github.com/happylogic"><img src="https://avatars.githubusercontent.com/u/160391788?s=32&v=4" alt="CBAlpine" /></a>
+<a href="https://github.com/CBAlpine"><img src="https://avatars.githubusercontent.com/u/160391788?s=32&v=4" alt="CBAlpine" /></a>
 <a href="https://github.com/move-os"><img src="https://avatars.githubusercontent.com/u/116582302?s=32&v=4" alt="moveOS" /></a>
 <a href="https://github.com/git-mine"><img src="https://avatars.githubusercontent.com/u/125908595?s=32&v=4" alt="Git Mine" /></a>
 <a href="https://github.com/ubrant"><img src="https://avatars.githubusercontent.com/u/87671848?s=32&v=4" alt="Ubrant" /></a>
