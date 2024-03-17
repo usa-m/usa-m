@@ -8,8 +8,6 @@ Usama here, an engineer and life-long learner having experience of working in th
 
 &nbsp; &nbsp; ♨️ &nbsp; Designing and implementing real-life control systems, simulations and games
 
-&nbsp; &nbsp; ♨️ &nbsp; Developing 
-
 &nbsp; &nbsp; ♨️ &nbsp; Understanding AI and ML in-depth - not just using AI or ML terminology to grab attraction
 
 
