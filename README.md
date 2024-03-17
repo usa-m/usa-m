@@ -1,25 +1,23 @@
-Hello, there 👋 ! Usama here, an engineer having working experience in the Aviation industry for quite many years, specifically interested in:
+Hello, there 👋 !
 
-  - &nbsp; &nbsp; Reading, writing and teaching about technology in-depth
+Usama here, an engineer and life-long learner having experience of working in defense-related aviation industry for many years, but keenly interested in:
+
+  - &nbsp; &nbsp; Reading, writing and teaching in-depth about technology
   - &nbsp; &nbsp; Exploring and enabling native, real-time, cross-platform, full-stack and bare-metal applications
   - &nbsp; &nbsp; Designing and implementing real-life control systems, simulations and games
   - &nbsp; &nbsp; Developing networked and distributed applications
-  - &nbsp; &nbsp; Understanding AI and ML - not just using AI/ML terminology to grab attraction
+  - &nbsp; &nbsp; Understanding AI and ML in-depth - not just using AI or ML terminology to grab attraction
 
 
 &nbsp;
 
-# 
-
 💞️ Collaborations are always sought :star::star::star: positively, in:
-  - &nbsp; &nbsp; Software and firmware development - Linux, Windows, Arduino, STM32, BeagleBone, NUCs, \*\*PIs, RTOSes ...
-  - &nbsp; &nbsp; Edge and cloud solutions
+  - &nbsp; &nbsp; Software and firmware development - Linux, Windows, Arduino, STM32, BeagleBone, NUCs, \*\*PIs, RTOSes, ...
+  - &nbsp; &nbsp; Edge and cloud hosted solutions
   - &nbsp; &nbsp; Ecosystem integrity and security ✨✨✨ - as much as viable
 
 
 &nbsp;
-
-# 
 
 🌱 Recently, I've been contributing and working on various projects, some are available at:
 
