@@ -1,6 +1,6 @@
 Hello, there 👋 !
 
-Usama here, an engineer and life-long learner having experience of working in the defense-related :basecamp: aviation ✈️ industry for many years, but I remain keenly interested in:
+Usama here, an engineer and life-long learner having experience of working in the defense-related :basecamp: aviation ✈️ industry for many years ⏲️, but I remain keenly interested in:
 
 &nbsp; &nbsp; ♨️ Reading 📚, writing 🖋️, and teaching 👨‍🏫 in-depth about technology
 
@@ -21,12 +21,12 @@ Usama here, an engineer and life-long learner having experience of working in th
 
 &nbsp; &nbsp; ♨️ Edge ⚗️ and cloud 🌩️ hosted solutions
 
-&nbsp; &nbsp; ♨️ Ecosystem integrity ⁉️ and security ㊙️ - as much as viable
+&nbsp; &nbsp; ♨️ Ecosystem integrity ⁉️ and security ㊙️ - an ongoing process
 
 
 &nbsp;
 
-🌱 Recently, I've been contributing and working on various projects, some are available at:
+🌱 Recently, I've been contributing and working on various projects, some are openly available at:
 
 
 <p align="left">
