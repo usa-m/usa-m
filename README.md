@@ -2,26 +2,26 @@ Hello, there 👋 !
 
 Usama here, an engineer and life-long learner having experience of working in the defense-related :basecamp: aviation ✈️ industry for many years ⏲️, but I remain keenly interested in:
 
-&nbsp; &nbsp; ♨️ Reading 📚, writing 🖋️, and teaching 👨‍🏫 in-depth about technology
+&nbsp; &nbsp; ♨️ &nbsp; Reading 📚, writing 🖋️, and teaching 👨‍🏫 in-depth about technology
 
-&nbsp; &nbsp; ♨️ Exploring and enabling native, real-time, cross-platform, full-stack and bare-metal applications
+&nbsp; &nbsp; ♨️ &nbsp; Exploring and enabling native, real-time, cross-platform, full-stack and bare-metal applications
 
-&nbsp; &nbsp; ♨️ Designing and implementing real-life control systems, simulations and games
+&nbsp; &nbsp; ♨️ &nbsp; Designing and implementing real-life control systems, simulations and games
 
-&nbsp; &nbsp; ♨️ Developing networked and distributed applications
+&nbsp; &nbsp; ♨️ &nbsp; Developing networked and distributed applications
 
-&nbsp; &nbsp; ♨️ Understanding AI and ML in-depth - not just using AI or ML terminology to grab attraction
+&nbsp; &nbsp; ♨️ &nbsp; Understanding AI and ML in-depth - not just using AI or ML terminology to grab attraction
 
 
 &nbsp;
 
 💞️ Collaborations are always sought positively, in:
 
-&nbsp; &nbsp; ♨️ Software 🖥️ and firmware 🚀 development - Linux, Windows, Arduino, STM32, BeagleBone, NUCs, \*\*PIs, RTOSes, ...
+&nbsp; &nbsp; ♨️ &nbsp; Software 🖥️ and firmware 🚀 development - Linux, Windows, Arduino, STM32, BeagleBone, NUCs, \*\*PIs, RTOSes, ...
 
-&nbsp; &nbsp; ♨️ Edge ⚗️ and cloud 🌩️ hosted solutions
+&nbsp; &nbsp; ♨️ &nbsp; Edge ⚗️ and cloud 🌩️ hosted solutions
 
-&nbsp; &nbsp; ♨️ Ecosystem integrity ⁉️ and security ㊙️ - an ongoing process
+&nbsp; &nbsp; ♨️ &nbsp; Ecosystem integrity ⁉️ and security ㊙️ - an ongoing process
 
 
 &nbsp;
