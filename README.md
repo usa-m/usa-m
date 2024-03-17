@@ -24,7 +24,7 @@ I'm an *Avionics Engineer* having working experience in the Aviation industry fo
 
 # 
 
-🌱 Private repos (for the timebeing) and public projects are available at:
+🌱 My projects are available at:
 
 
 <p align="left">
