@@ -1,12 +1,9 @@
-Hello, there 👋 ! Usama here,
+Hello, there 👋 ! Usama here, an engineer having working experience in the Aviation industry for quite many years, specifically interested in:
 
-I'm an *Avionics Engineer* having working experience in the Aviation industry for quite many years, specifically with interests in:
-
-  - &nbsp; &nbsp; Reading technology in-depth, developing practical understanding and writing for easy comprehension by others
-  - &nbsp; &nbsp; Creating native, real-time, cross-platform, full-stack and bare-metal applications
-  - &nbsp; &nbsp; Designing and developing control systems
-  - &nbsp; &nbsp; Creating simulations and games in AR/VR spectrum
-  - &nbsp; &nbsp; Developing distributed applications
+  - &nbsp; &nbsp; Reading, writing and teaching about technology in-depth
+  - &nbsp; &nbsp; Exploring and enabling native, real-time, cross-platform, full-stack and bare-metal applications
+  - &nbsp; &nbsp; Designing and implementing real-life control systems, simulations and games
+  - &nbsp; &nbsp; Developing networked and distributed applications
   - &nbsp; &nbsp; Understanding AI and ML - not just using AI/ML terminology to grab attraction
 
 
@@ -14,9 +11,9 @@ I'm an *Avionics Engineer* having working experience in the Aviation industry fo
 
 # 
 
-💞️ Collaborations are always welcomed :star::star::star: in the areas:
+💞️ Collaborations are always sought :star::star::star: positively, in:
   - &nbsp; &nbsp; Software and firmware development - Linux, Windows, Arduino, STM32, BeagleBone, NUCs, \*\*PIs, RTOSes ...
-  - &nbsp; &nbsp; Edge and cloud deployable libraries and applications
+  - &nbsp; &nbsp; Edge and cloud solutions
   - &nbsp; &nbsp; Ecosystem integrity and security ✨✨✨ - as much as viable
 
 
@@ -24,7 +21,7 @@ I'm an *Avionics Engineer* having working experience in the Aviation industry fo
 
 # 
 
-🌱 My projects are available at:
+🌱 Recently, I've been contributing and working on various projects, some are available at:
 
 
 <p align="left">
