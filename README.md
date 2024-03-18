@@ -1,6 +1,6 @@
 Hello, there 👋 !
 
-Usama here, an engineer and life-long learner having experience of working in the defense-related :basecamp: aviation ✈️ industry for many years ⏲️, but I remain keenly interested in:
+Usama here, an engineer and life-long learner having experience of working in the defense-related :basecamp: aviation ✈️ industry 🏭 for many years ⏲️, and remain keenly interested in:
 
 &nbsp; &nbsp; ♨️ &nbsp; &nbsp; Reading 📚, writing 🖋️, and teaching 🎓 in-depth; everything technology
 
