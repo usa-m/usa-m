@@ -40,7 +40,7 @@ Nice to see you! &nbsp; I'm Usama, an engineer and life-long learner with prior 
 </p>
 
 # 
-<p align="right">Shoot me a message at <a href="https://www.linkedin.com/in/usa-m"><b>LinkedIn</b></a> ... and let's create something ***amazing*** together!</p>
+<p align="right">Shoot me a message at <a href="https://www.linkedin.com/in/usa-m"><b>LinkedIn</b></a> ... let's create something <b><i>amazing</i></b> together!</p>
 
 
 
