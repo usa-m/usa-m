@@ -2,11 +2,11 @@ Hello, there 👋 !
 
 Nice to see you! &nbsp; I'm Usama, an engineer and life-long learner with prior experience of working in the prestigious *military defense*-enabling :basecampy: *aviation industry* ✈️ for many years, serving in various roles and positions; though, keenly interested in:
 
-&nbsp; &nbsp; 👀 &nbsp; &nbsp; *Reading* 📚, *writing* 🖋️, and *teaching* 🎓 - everything that has anything to do with *modern technologies*
+&nbsp; &nbsp; 👀 &nbsp; &nbsp; *Reading* 📚, &nbsp; *writing* 🖋️, &nbsp; and *teaching* 🎓 - everything that has anything to do with *modern technologies*
 
-&nbsp; &nbsp; 👀 &nbsp; &nbsp; Realizing: *Realtime* ⏳, *native* 🐡, *cross-platform* ⚔️, *full-stack* 🧮, *bare-metal* 🤘, *networked* and *distributed* 🪐 applications
+&nbsp; &nbsp; 👀 &nbsp; &nbsp; Realizing: *Realtime* ⏳, &nbsp; *native* 🐡, &nbsp; *cross-platform* ⚔️, &nbsp; *full-stack* 🧮, &nbsp; *bare-metal* 🤘, &nbsp; *networked* and *distributed* 🪐 applications
 
-&nbsp; &nbsp; 👀 &nbsp; &nbsp; Designing and implementing: *Control systems* 🏗️, *simulations* 〽️ and *games* 🎮 from scratch
+&nbsp; &nbsp; 👀 &nbsp; &nbsp; Designing and implementing: *Control systems* 🏗️, &nbsp; *simulations* 〽️, &nbsp; and *games* 🎮 &nbsp; from scratch
 
 &nbsp; &nbsp; 👀 &nbsp; &nbsp; Understanding *AI* and *ML* in-essence - not for using catchy AI jargons to grab attraction ♨️
 
@@ -15,9 +15,9 @@ Nice to see you! &nbsp; I'm Usama, an engineer and life-long learner with prior 
 
 💞️ Collaborations are always sought and welcomed, in:
 
-&nbsp; &nbsp; 👀 &nbsp; &nbsp; *Software* 💻 and *firmware* 🚀 development - Linux, Windows, Arduino, STM32, BeagleBone, NUCs, \*\*PIs, RTOSes, ...
+&nbsp; &nbsp; 👀 &nbsp; &nbsp; *Software* 💻 &nbsp; and *firmware* 🚀 &nbsp; development - Linux, Windows, Arduino, STM32, BeagleBone, NUCs, \*\*PIs, RTOSes, ...
 
-&nbsp; &nbsp; 👀 &nbsp; &nbsp; *Edge* 🎼, *desktop* 🖥️, *mobile* 📱 and *cloud*-hosted 🌩️ solutions
+&nbsp; &nbsp; 👀 &nbsp; &nbsp; *Edge* 🎼, &nbsp; *desktop* 🖥️, &nbsp; *mobile* 📱 &nbsp; and *cloud*-hosted 🌩️ &nbsp; solutions
 
 &nbsp; &nbsp; 👀 &nbsp; &nbsp; Ecosystem *integrity* and *security* ㊙️ - an ongoing effort
 
@@ -43,7 +43,7 @@ Nice to see you! &nbsp; I'm Usama, an engineer and life-long learner with prior 
 &nbsp;
 
 # 
-<p align="right">Shoot me a message at <a href="https://www.linkedin.com/in/usa-m">*LinkedIn*</a> ... and let's create something ***amazing*** together!</p>
+<p align="right">Shoot me a message at <a href="https://www.linkedin.com/in/usa-m"><b>LinkedIn</b></a> ... and let's create something ***amazing*** together!</p>
 
 
 
