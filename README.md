@@ -4,9 +4,9 @@ Usama here, an engineer and life-long learner having experience of working in th
 
 &nbsp; &nbsp; ♨️ &nbsp; &nbsp; Reading 📚, writing 🖋️, and teaching 🎓 in-depth; everything relating technology
 
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; Enabling 🏗️: Realtime ⏳, native 🐡, cross-platform ⚔️, full-stack 🧮, bare-metal 🤘, networked and distributed 🪐 applications
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; Enabling: Realtime ⏳, native 🐡, cross-platform ⚔️, full-stack 🧮, bare-metal 🤘, networked and distributed 🪐 applications
 
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; Designing and implementing: Control systems 🎛️, simulations 〽️ and games 🎮
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; Designing and implementing: Control systems 🏗️, simulations 〽️ and games 🎮
 
 &nbsp; &nbsp; ♨️ &nbsp; &nbsp; Understanding AI and ML in-essence - not for using catchy AI jargons to grab attraction 👀
 
