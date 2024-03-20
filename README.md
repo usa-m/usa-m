@@ -1,25 +1,25 @@
 Hello, there 👋 !
 
-Usama here, an engineer and life-long learner having experience of working in the defense-related :basecampy: aviation ✈️ industry 🏭 for many years ⏲️, and remain keenly interested in:
+Nice to see you! I'm Usama, an engineer and life-long learner having experience of working in the prestigious, military defense-related :basecampy: aviation ✈️ industry 🏭 for many years; and remain keenly interested in:
 
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; Reading 📚, writing 🖋️, and teaching 🎓 in-depth; everything relating technology
+&nbsp; &nbsp; 👀 &nbsp; &nbsp; Reading 📚, writing 🖋️, and teaching 🎓 in-depth; everything relating technology
 
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; Enabling: Realtime ⏳, native 🐡, cross-platform ⚔️, full-stack 🧮, bare-metal 🤘, networked and distributed 🪐 applications
+&nbsp; &nbsp; 👀 &nbsp; &nbsp; Enabling: Realtime ⏳, native 🐡, cross-platform ⚔️, full-stack 🧮, bare-metal 🤘, networked and distributed 🪐 applications
 
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; Designing and implementing: Control systems 🏗️, simulations 〽️ and games 🎮
+&nbsp; &nbsp; 👀 &nbsp; &nbsp; Designing and implementing: Control systems 🏗️, simulations 〽️ and games 🎮
 
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; Understanding AI and ML in-essence - not for using catchy AI jargons to grab attraction 👀
+&nbsp; &nbsp; 👀 &nbsp; &nbsp; Understanding AI and ML in-essence - not for using catchy AI jargons to grab attraction ♨️
 
 
 &nbsp;
 
 💞️ Collaborations are always sought and welcomed, in:
 
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; Software 💻 and firmware 🚀 development - Linux, Windows, Arduino, STM32, BeagleBone, NUCs, \*\*PIs, RTOSes, ...
+&nbsp; &nbsp; 👀 &nbsp; &nbsp; Software 💻 and firmware 🚀 development - Linux, Windows, Arduino, STM32, BeagleBone, NUCs, \*\*PIs, RTOSes, ...
 
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; Edge 🎼, desktop 🖥️, mobile 📱 and cloud-hosted 🌩️ solutions
+&nbsp; &nbsp; 👀 &nbsp; &nbsp; Edge 🎼, desktop 🖥️, mobile 📱 and cloud-hosted 🌩️ solutions
 
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; Ecosystem integrity ⁉️ and security ㊙️ - an ongoing effort
+&nbsp; &nbsp; 👀 &nbsp; &nbsp; Ecosystem integrity ⁉️ and security ㊙️ - an ongoing effort
 
 
 &nbsp;
