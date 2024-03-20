@@ -1,10 +1,10 @@
 Hello, there 👋 !
 
-Nice to see you! I'm Usama, an engineer and life-long learner having experience of working in the prestigious, ***military defense***-related :basecampy: ***aviation*** ✈️ industry 🏭 for many years in various roles; and keenly interested in:
+Nice to see you! &nbsp; I'm Usama, an engineer and life-long learner with prior experience of working in the prestigious ***military defense***-enabling :basecampy: ***aviation industry*** ✈️ for many years, serving in various roles and positions; though, keenly interested in:
 
-&nbsp; &nbsp; 👀 &nbsp; &nbsp; ***Reading*** 📚, ***writing*** 🖋️, and ***teaching*** 🎓 in-depth; everything that has anything to do with *technology*
+&nbsp; &nbsp; 👀 &nbsp; &nbsp; ***Reading*** 📚, ***writing*** 🖋️, and ***teaching*** 🎓 in-depth; everything that has anything to do with modern *technologies*
 
-&nbsp; &nbsp; 👀 &nbsp; &nbsp; Enabling: ***Realtime*** ⏳, ***native*** 🐡, ***cross-platform*** ⚔️, ***full-stack*** 🧮, ***bare-metal*** 🤘, ***networked*** and ***distributed*** 🪐 applications
+&nbsp; &nbsp; 👀 &nbsp; &nbsp; Realizing: ***Realtime*** ⏳, ***native*** 🐡, ***cross-platform*** ⚔️, ***full-stack*** 🧮, ***bare-metal*** 🤘, ***networked*** and ***distributed*** 🪐 applications
 
 &nbsp; &nbsp; 👀 &nbsp; &nbsp; Designing and implementing: ***Control systems*** 🏗️, ***simulations*** 〽️ and ***games*** 🎮
 
