@@ -2,7 +2,7 @@ Hello, there 👋 !
 
 Nice to see you! &nbsp; I'm Usama, an engineer and life-long learner with prior experience of working in the prestigious *military defense*-enabling :basecampy: *aviation industry* ✈️ for many years, serving in various roles and positions; though, keenly interested in:
 
-&nbsp; &nbsp; 👀 &nbsp; &nbsp; *Reading* 📚, &nbsp; *writing* 🖋️, &nbsp; and *teaching* 🎓 - everything that has anything to do with *modern technologies*
+&nbsp; &nbsp; 👀 &nbsp; &nbsp; *Reading* 📚, &nbsp; *writing* 🖋️, &nbsp; and *teaching* 🎓 - anything relating *modern technologies*
 
 &nbsp; &nbsp; 👀 &nbsp; &nbsp; Realizing: *Realtime* ⏳, &nbsp; *native* 🐡, &nbsp; *cross-platform* ⚔️, &nbsp; *full-stack* 🧮, &nbsp; *bare-metal* 🤘, &nbsp; and *networked / distributed* 🪐 applications
 
