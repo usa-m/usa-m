@@ -13,17 +13,6 @@ Nice to see you 👀! &nbsp; I'm Usama, an engineer and life-long learner with y
 
 &nbsp;
 
-💞️ Collaborations are always sought and welcomed:
-
-&nbsp; &nbsp; 🚀 &nbsp; &nbsp; *Software* &nbsp; and *firmware* &nbsp; development - Linux, Windows, Arduino, STM32, BeagleBone, NUCs, \*\*PIs, RTOSes, ...
-
-&nbsp; &nbsp; 🚀 &nbsp; &nbsp; *Edge*, &nbsp; *desktop*, &nbsp; *mobile* &nbsp; and *cloud*-hosted 🌩️ &nbsp; solutions
-
-&nbsp; &nbsp; 🚀 &nbsp; &nbsp; Ecosystem *integrity* and *security* ㊙️ - as an ongoing effort
-
-
-&nbsp;
-
 💞️ Recently, I've been contributing to and working on various projects, some are openly available at:
 
 <p align="left">
@@ -50,6 +39,20 @@ Nice to see you 👀! &nbsp; I'm Usama, an engineer and life-long learner with y
 &nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***CodeLines***](https://github.com/cronblocks/code-lines) - a simple application that counts the total number of lines in a given codebase
 
 &nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***ESerial - Qt***](https://github.com/cronblocks/eserial-qt) - a cross-platform application to greatly help in repetitive communication over a Serial Port
+
+***You can be of help*** ... Please, start by giving stars ⭐⭐⭐⭐⭐ to my projects, and contribute in their improvements
+
+
+
+&nbsp;
+
+💞️ Collaborations are always sought and welcomed:
+
+&nbsp; &nbsp; 🚀 &nbsp; &nbsp; *Software* &nbsp; and *firmware* &nbsp; development - Linux, Windows, Arduino, STM32, BeagleBone, NUCs, \*\*PIs, RTOSes, ...
+
+&nbsp; &nbsp; 🚀 &nbsp; &nbsp; *Edge*, &nbsp; *desktop*, &nbsp; *mobile* &nbsp; and *cloud*-hosted 🌩️ &nbsp; solutions
+
+&nbsp; &nbsp; 🚀 &nbsp; &nbsp; Ecosystem *integrity* and *security* ㊙️ - as an ongoing effort
 
 # 
 <p align="right">Shoot me a message at <a href="https://www.linkedin.com/in/usa-m"><b>LinkedIn</b></a> ... let's create something <b><i>amazing</i></b> together!</p>
