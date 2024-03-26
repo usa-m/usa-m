@@ -4,7 +4,7 @@ Hi 👋 ! I'm Usama, a simple engineer and a life-long learner with former years
 
 &nbsp; &nbsp; ⚔️ &nbsp; &nbsp; *Reading* 📚, &nbsp; *writing* 🖋️, &nbsp; and *teaching* 🎓 - anything that relates with *modern and evolving technologies*
 
-&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; Realizing: *Realtime*, &nbsp; *native*, &nbsp; *cross-platform*, &nbsp; *full-stack*, &nbsp; *bare-metal*, &nbsp; and *networked / distributed* 🪐 applications
+&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; Realizing: &nbsp; *Realtime*, &nbsp; *native*, &nbsp; *cross-platform*, &nbsp; *full-stack*, &nbsp; *bare-metal*, &nbsp; and *networked / distributed* 🪐 applications
 
 &nbsp; &nbsp; ⚔️ &nbsp; &nbsp; Designing and implementing *control systems*, &nbsp; *simulations*, &nbsp; and *games* &nbsp; from scratch
 
