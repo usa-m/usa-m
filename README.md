@@ -46,7 +46,7 @@ Nice to see you 👀! &nbsp; I'm Usama, an engineer and life-long learner with y
 
 &nbsp;
 
-💞️ Collaborations are always sought and welcomed:
+💞️ Collaborations are welcomed, in:
 
 &nbsp; &nbsp; 🚀 &nbsp; &nbsp; *Software* &nbsp; and *firmware* &nbsp; development - Linux, Windows, Arduino, STM32, BeagleBone, NUCs, \*\*PIs, RTOSes, ...
 
