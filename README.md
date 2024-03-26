@@ -11,6 +11,8 @@ Nice to see you 👀! &nbsp; I'm Usama, an engineer and life-long learner with y
 &nbsp; &nbsp; ⚔️ &nbsp; &nbsp; Understanding and applying *AI* and *ML* - not for using catchy jargons to grab attraction
 
 
+&nbsp;
+
 💞️ Collaborations are always sought and welcomed:
 
 &nbsp; &nbsp; 🚀 &nbsp; &nbsp; *Software* &nbsp; and *firmware* &nbsp; development - Linux, Windows, Arduino, STM32, BeagleBone, NUCs, \*\*PIs, RTOSes, ...
@@ -19,6 +21,8 @@ Nice to see you 👀! &nbsp; I'm Usama, an engineer and life-long learner with y
 
 &nbsp; &nbsp; 🚀 &nbsp; &nbsp; Ecosystem *integrity* and *security* ㊙️ - as an ongoing effort
 
+
+&nbsp;
 
 💞️ Recently, I've been contributing to and working on various projects, some are openly available at:
 
