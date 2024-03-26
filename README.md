@@ -48,11 +48,11 @@ Nice to see you 👀! &nbsp; I'm Usama, an engineer and life-long learner with y
 
 💞️ Collaborations are welcomed, in:
 
-&nbsp; &nbsp; 🚀 &nbsp; &nbsp; *Software* &nbsp; and *firmware* &nbsp; development - Linux, Windows, Arduino, STM32, BeagleBone, NUCs, \*\*PIs, RTOSes, ...
+&nbsp; &nbsp; 🚀 &nbsp; &nbsp; *Software* and *firmware* development - Linux, Windows, Arduino, STM32, BeagleBone, NUCs, \*\*PIs, RTOSes, ...
 
-&nbsp; &nbsp; 🚀 &nbsp; &nbsp; *Edge*, &nbsp; *desktop*, &nbsp; *mobile* &nbsp; and *cloud*-hosted 🌩️ &nbsp; solutions
+&nbsp; &nbsp; 🚀 &nbsp; &nbsp; *Edge*, *desktop*, *mobile* and *cloud*-hosted 🌩️🌩️🌩️ solutions
 
-&nbsp; &nbsp; 🚀 &nbsp; &nbsp; Ecosystem *integrity* and *security* ㊙️ - as an ongoing effort
+&nbsp; &nbsp; 🚀 &nbsp; &nbsp; Ecosystem *integrity* and *security* - as an ongoing effort
 
 # 
 <p align="right">Shoot me a message at <a href="https://www.linkedin.com/in/usa-m"><b>LinkedIn</b></a> ... let's create something <b><i>amazing</i></b> together!</p>
