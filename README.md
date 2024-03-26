@@ -39,9 +39,15 @@ Nice to see you 👀! &nbsp; I'm Usama, an engineer and life-long learner with y
 
 &nbsp; &nbsp; Few of open-domain projects are:
 
-&nbsp; &nbsp; 🚀 &nbsp; &nbsp; [***UTM***](https://github.com/uwshammout/utm) - an interface application for *Universal Testing Machine*
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***UTM***](https://github.com/uwshammout/utm) - an interface application for *Universal Testing Machine*
 
-&nbsp; &nbsp; 🚀 &nbsp; &nbsp; [***FCM***](https://github.com/uwshammout/fcm) - an application to monitor *Fuel Cells* and *Electrolyzers*
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***FCM***](https://github.com/uwshammout/fcm) - an application to monitor *Fuel Cells* and *Electrolyzers*
+
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***DDS.Net***](https://github.com/dds-dotnet) - a library to host server in .NET that connects .NET and C++ applications together
+
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***DxSurface***](https://github.com/cronblocks-games/DxSurface) - an under-development light-weight game engine using DirectX and modern C++
+
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***CodeLines***](https://github.com/cronblocks/code-lines) - a simple application that counts the total number of lines in a given codebase
 
 # 
 <p align="right">Shoot me a message at <a href="https://www.linkedin.com/in/usa-m"><b>LinkedIn</b></a> ... let's create something <b><i>amazing</i></b> together!</p>
