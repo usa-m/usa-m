@@ -23,7 +23,6 @@ Nice to see you 👀! &nbsp; I'm Usama, an engineer and life-long learner with y
 💞️ Recently, I've been contributing to and working on various projects, some are openly available at:
 
 <p align="left">
-  
 &nbsp; <a href="https://github.com/cronblocks"><img src="https://avatars.githubusercontent.com/u/86520771?s=32&v=4" alt="CronBlocks" /></a>
 &nbsp; <a href="https://github.com/dds-dotnet"><img src="https://avatars.githubusercontent.com/u/125957062?s=32&v=4" alt="DDS .Net" /></a>
 &nbsp; <a href="https://github.com/cronblocks-games"><img src="https://avatars.githubusercontent.com/u/148332804?s=32&v=4" alt="CronBlocks Games" /></a>
@@ -32,8 +31,13 @@ Nice to see you 👀! &nbsp; I'm Usama, an engineer and life-long learner with y
 &nbsp; <a href="https://github.com/move-os"><img src="https://avatars.githubusercontent.com/u/116582302?s=32&v=4" alt="moveOS" /></a>
 &nbsp; <a href="https://github.com/git-mine"><img src="https://avatars.githubusercontent.com/u/125908595?s=32&v=4" alt="Git Mine" /></a>
 &nbsp; <a href="https://github.com/ubrant"><img src="https://avatars.githubusercontent.com/u/87671848?s=32&v=4" alt="Ubrant" /></a>
-
 </p>
+
+&nbsp; &nbsp; Few of open-domain projects are:
+
+&nbsp; &nbsp; 🚀 &nbsp; &nbsp; [***UTM***](https://github.com/uwshammout/utm) - an interface application for *Universal Testing Machine*
+
+&nbsp; &nbsp; 🚀 &nbsp; &nbsp; [***FCM***](https://github.com/uwshammout/fcm) - an application to monitor *Fuel Cells* and *Electrolyzers*
 
 # 
 <p align="right">Shoot me a message at <a href="https://www.linkedin.com/in/usa-m"><b>LinkedIn</b></a> ... let's create something <b><i>amazing</i></b> together!</p>
