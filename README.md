@@ -1,28 +1,24 @@
 Hello, there 👋 !
 
-Nice to see you! &nbsp; I'm Usama, an engineer and life-long learner with prior experience of working in the prestigious *military defense*-enabling :basecampy: *aviation industry* ✈️ for many years, serving in various roles and positions; though, keenly interested in:
+Nice to see you 👀! &nbsp; I'm Usama, an engineer and life-long learner with years of former working experience in a prestigious *National defense*-enabling *Aviation industry* ✈️ , thereby, serving in various roles and key positions; though, I'm keenly interested in:
 
-&nbsp; &nbsp; 👀 &nbsp; &nbsp; *Reading* 📚, &nbsp; *writing* 🖋️, &nbsp; and *teaching* 🎓 - anything relating *modern technologies*
+&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; *Reading* 📚, &nbsp; *writing* 🖋️, &nbsp; and *teaching* 🎓 - anything that relates with *modern and evolving technologies*
 
-&nbsp; &nbsp; 👀 &nbsp; &nbsp; Realizing: *Realtime* ⏳, &nbsp; *native* 🐡, &nbsp; *cross-platform* ⚔️, &nbsp; *full-stack* 🧮, &nbsp; *bare-metal* 🤘, &nbsp; and *networked / distributed* 🪐 applications
+&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; Realizing: *Realtime*, &nbsp; *native*, &nbsp; *cross-platform*, &nbsp; *full-stack*, &nbsp; *bare-metal*, &nbsp; and *networked / distributed* 🪐 applications
 
-&nbsp; &nbsp; 👀 &nbsp; &nbsp; Designing and implementing: *Control systems* 🏗️, &nbsp; *simulations* 〽️, &nbsp; and *games* 🎮 &nbsp; from scratch
+&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; Designing and implementing *control systems*, &nbsp; *simulations*, &nbsp; and *games* &nbsp; from scratch
 
-&nbsp; &nbsp; 👀 &nbsp; &nbsp; Understanding *AI* and *ML* in-essence - not for using catchy AI jargons to grab attraction ♨️
-
-
-&nbsp;
-
-💞️ Collaborations are always sought and welcomed, in:
-
-&nbsp; &nbsp; 👀 &nbsp; &nbsp; *Software* 💻 &nbsp; and *firmware* 🚀 &nbsp; development - Linux, Windows, Arduino, STM32, BeagleBone, NUCs, \*\*PIs, RTOSes, ...
-
-&nbsp; &nbsp; 👀 &nbsp; &nbsp; *Edge* 🎼, &nbsp; *desktop* 🖥️, &nbsp; *mobile* 📱 &nbsp; and *cloud*-hosted 🌩️ &nbsp; solutions
-
-&nbsp; &nbsp; 👀 &nbsp; &nbsp; Ecosystem *integrity* and *security* ㊙️ - an ongoing effort
+&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; Understanding and applying *AI* and *ML* - not for using catchy jargons to grab attraction
 
 
-&nbsp;
+💞️ Collaborations are always sought and welcomed:
+
+&nbsp; &nbsp; 🚀 &nbsp; &nbsp; *Software* &nbsp; and *firmware* &nbsp; development - Linux, Windows, Arduino, STM32, BeagleBone, NUCs, \*\*PIs, RTOSes, ...
+
+&nbsp; &nbsp; 🚀 &nbsp; &nbsp; *Edge*, &nbsp; *desktop*, &nbsp; *mobile* &nbsp; and *cloud*-hosted 🌩️ &nbsp; solutions
+
+&nbsp; &nbsp; 🚀 &nbsp; &nbsp; Ecosystem *integrity* and *security* ㊙️ - as an ongoing effort
+
 
 💞️ Recently, I've been contributing to and working on various projects, some are openly available at:
 
