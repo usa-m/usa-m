@@ -1,6 +1,6 @@
-Hello, there 👋 !
+Nice to see you 👀 here!
 
-Nice to see you 👀! &nbsp; I'm Usama, an engineer and life-long learner with years of former working experience in a prestigious *National defense*-enabling *Aviation industry* ✈️ , thereby, serving in various roles and key positions; though, I'm keenly interested in:
+Hi 👋 ! I'm Usama, a simple engineer and a life-long learner with former years of working experience in a prestigious *National defense*-enabling *Aviation industry* ✈️ , therein serving in various roles and key positions; though, I'm keenly interested in:
 
 &nbsp; &nbsp; ⚔️ &nbsp; &nbsp; *Reading* 📚, &nbsp; *writing* 🖋️, &nbsp; and *teaching* 🎓 - anything that relates with *modern and evolving technologies*
 
