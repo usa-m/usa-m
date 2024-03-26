@@ -56,7 +56,7 @@ Nice to see you 👀! &nbsp; I'm Usama, an engineer and life-long learner with y
 &nbsp; &nbsp; 🚀 &nbsp; &nbsp; Ecosystem *integrity* and *security* - as an ongoing effort
 
 # 
-<p align="right">Shoot me a message at <a href="https://www.linkedin.com/in/usa-m"><b>LinkedIn</b></a> ... let's create something <b><i>amazing</i></b> together!</p>
+<p align="right">⭐⭐⭐⭐⭐, contribute & shoot a message at <a href="https://www.linkedin.com/in/usa-m"><b>LinkedIn</b></a> ... let's create something <b><i>AMAZING</i></b> together!</p>
 
 
 
