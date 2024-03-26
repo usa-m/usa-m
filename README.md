@@ -40,7 +40,7 @@ Nice to see you 👀! &nbsp; I'm Usama, an engineer and life-long learner with y
 
 &nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***ESerial - Qt***](https://github.com/cronblocks/eserial-qt) - a cross-platform application to greatly help in repetitive communication over a Serial Port
 
-***You can be of help*** ... Please, start by giving stars ⭐⭐⭐⭐⭐ to my projects, and contribute in their improvements
+***You can HELP*** ... Please, start by giving stars ⭐⭐⭐⭐⭐ to the projects, and contribute in their improvement
 
 
 
