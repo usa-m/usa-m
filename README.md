@@ -49,6 +49,8 @@ Nice to see you 👀! &nbsp; I'm Usama, an engineer and life-long learner with y
 
 &nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***CodeLines***](https://github.com/cronblocks/code-lines) - a simple application that counts the total number of lines in a given codebase
 
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***ESerial - Qt***](https://github.com/cronblocks/eserial-qt) - a cross-platform application to greatly help in repetitive communication over a Serial Port
+
 # 
 <p align="right">Shoot me a message at <a href="https://www.linkedin.com/in/usa-m"><b>LinkedIn</b></a> ... let's create something <b><i>amazing</i></b> together!</p>
 
