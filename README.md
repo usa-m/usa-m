@@ -29,19 +29,19 @@ Hi 👋 ! I'm Usama, an engineer and a life-long learner with former working exp
 
 &nbsp; &nbsp; Few of open-domain projects are:
 
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***DxSurface***](https://github.com/cronblocks-games/DxSurface) - an under-development light-weight game engine using Windows APIs, DirectX and modern C++
+
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***DDS.Net***](https://github.com/dds-dotnet) - a library to host server with .NET application that connects other .NET and C++ applications together
+
 &nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***UTM***](https://github.com/uwshammout/utm) - an interface application for *Universal Testing Machine*
 
 &nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***FCM***](https://github.com/uwshammout/fcm) - an application to monitor *Fuel Cells* and *Electrolyzers*
 
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***DDS.Net***](https://github.com/dds-dotnet) - a library to host server in .NET that connects .NET and C++ applications together
-
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***DxSurface***](https://github.com/cronblocks-games/DxSurface) - an under-development light-weight game engine using DirectX and modern C++
-
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***CodeLines***](https://github.com/cronblocks/code-lines) - a simple application that counts the total number of lines in a given codebase
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***CodeLines***](https://github.com/cronblocks/code-lines) - an application that counts total number of lines in a given codebase
 
 &nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***ESerial - Qt***](https://github.com/cronblocks/eserial-qt) - a cross-platform application to greatly help in repetitive communication over a Serial Port
 
-***You can HELP*** ... Start by giving stars ⭐⭐⭐⭐⭐ to the projects, and contribute in code & documentation
+***You can HELP*** ... Start by giving stars ⭐⭐⭐⭐⭐ to projects, contribute in code & documentation
 
 
 
