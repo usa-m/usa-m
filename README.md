@@ -1,6 +1,6 @@
 Nice to see you 👀 here!
 
-Hi 👋 ! I'm Usama, a simple engineer and a life-long learner with former years of working experience in a prestigious *National defense*-enabling *Aviation industry* ✈️ , therein serving in various roles and key positions; though, I'm keenly interested in:
+Hi 👋 ! I'm Usama, an engineer and a life-long learner with former working experience of many years in a prestigious *National defense*-enabling *Aviation industry* ✈️ , therein serving at various key positions in different roles; though, I'm more keenly interested in:
 
 &nbsp; &nbsp; ⚔️ &nbsp; &nbsp; *Reading* 📚, &nbsp; *writing* 🖋️, &nbsp; and *teaching* 🎓 - anything that relates with *modern and evolving technologies*
 
@@ -8,7 +8,7 @@ Hi 👋 ! I'm Usama, a simple engineer and a life-long learner with former years
 
 &nbsp; &nbsp; ⚔️ &nbsp; &nbsp; Designing and implementing *control systems*, &nbsp; *simulations*, &nbsp; and *games* &nbsp; from scratch
 
-&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; Understanding and applying *AI* and *ML* - not for using catchy jargons to grab attraction
+&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; Understanding and applying *AI* and *ML* - not for catchy jargons to grab attraction
 
 
 &nbsp;
