@@ -41,7 +41,7 @@ Hi 👋 ! I'm Usama, an engineer and a life-long learner with former working exp
 
 &nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***ESerial - Qt***](https://github.com/cronblocks/eserial-qt) - a cross-platform application to greatly help in repetitive communication over a Serial Port
 
-***You can HELP*** ... Start by giving stars ⭐⭐⭐⭐⭐ to projects, contribute in code & documentation
+&nbsp; &nbsp; ***You can HELP*** ... Start by giving stars ⭐⭐⭐⭐⭐ to projects, contribute in code & documentation
 
 
 
