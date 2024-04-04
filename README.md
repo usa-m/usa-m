@@ -13,7 +13,7 @@ Hi 👋 ! I'm Usama, an aeronautical engineer and a life-long learner with forme
 
 &nbsp;
 
-💞️ Few of my open-domain projects:
+💞️ Some of my openly available projects:
 
 &nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***DxSurface***](https://github.com/cronblocks-games/DxSurface) - Under-development light-weight game engine that uses *Windows APIs* and *DirectX* with *modern C++*
 
