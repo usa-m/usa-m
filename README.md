@@ -17,7 +17,7 @@ Hi 👋 ! I'm Usama, an aeronautical engineer and a life-long learner with forme
 
 &nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***DxSurface***](https://github.com/cronblocks-games/DxSurface) - Under-development, light-weight game engine that utilizes *Windows APIs* and *DirectX* with *modern C++*
 
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***DDS.Net***](https://github.com/dds-dotnet) - Library to host servers through *.NET applications* so as to connect *.NET* and *C++* applications together
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***DDS.Net***](https://github.com/dds-dotnet) - Library to host servers with *.NET applications* so as to connect *.NET* and *C++* applications together
 
 &nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***UTM***](https://github.com/uwshammout/utm) - A *hardware interfacing* and *frontend* application for making *Universal Testing Machines*
 
