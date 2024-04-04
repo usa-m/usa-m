@@ -13,7 +13,39 @@ Hi 👋 ! I'm Usama, an aeronautical engineer and a life-long learner with forme
 
 &nbsp;
 
-💞️ Recently, I've been contributing to and working on various projects, some are openly available at:
+💞️ Few of my open-domain projects:
+
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***DxSurface***](https://github.com/cronblocks-games/DxSurface) - Under-development light-weight game engine that uses *Windows APIs* and *DirectX* with *modern C++*
+
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***DDS.Net***](https://github.com/dds-dotnet) - Library to host servers through *.NET applications* so as to connect *.NET* and *C++* applications together
+
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***UTM***](https://github.com/uwshammout/utm) - A *hardware interfacing* and *frontend* application for making *Universal Testing Machines*
+
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***FCM***](https://github.com/uwshammout/fcm) - An application to test and monitor *Fuel Cells* and *Electrolyzers*
+
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***CodeLines***](https://github.com/cronblocks/code-lines) - Counts the total number of lines of code within a given codebase
+
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***ESerial - Qt***](https://github.com/cronblocks/eserial-qt) - Cross-platform application for greatly helping in repetitive communication tasks over a Serial Port
+
+&nbsp; &nbsp; ***You can HELP*** by giving stars ⭐⭐⭐⭐⭐ , and contributing to code & documentation
+
+
+
+&nbsp;
+
+💞️ Collaborations are *welcomed*, in:
+
+&nbsp; &nbsp; 🚀 &nbsp; &nbsp; *Software* and *firmware* development - Linux, Windows, Arduino, STM32, BeagleBone, NUCs, \*\*PIs, RTOSes, ...
+
+&nbsp; &nbsp; 🚀 &nbsp; &nbsp; *Edge*, *desktop*, *mobile* and *cloud*-hosted 🌩️🌩️🌩️ solutions
+
+&nbsp; &nbsp; 🚀 &nbsp; &nbsp; Ecosystem *integrity* and *security* - as an ongoing effort
+
+
+
+&nbsp;
+
+💞️ Organizations, that I work through:
 
 <p align="left">
 &nbsp; 
@@ -27,36 +59,8 @@ Hi 👋 ! I'm Usama, an aeronautical engineer and a life-long learner with forme
 &nbsp; <a href="https://github.com/ubrant"><img src="https://avatars.githubusercontent.com/u/87671848?s=32&v=4" alt="Ubrant" /></a>
 </p>
 
-&nbsp; &nbsp; Few of open-domain projects are:
-
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***DxSurface***](https://github.com/cronblocks-games/DxSurface) - an under-development light-weight game engine using Windows APIs, DirectX and modern C++
-
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***DDS.Net***](https://github.com/dds-dotnet) - a library to host server with .NET application that connects other .NET and C++ applications together
-
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***UTM***](https://github.com/uwshammout/utm) - an interface application for *Universal Testing Machine*
-
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***FCM***](https://github.com/uwshammout/fcm) - an application to monitor *Fuel Cells* and *Electrolyzers*
-
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***CodeLines***](https://github.com/cronblocks/code-lines) - an application that counts total number of lines in a given codebase
-
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***ESerial - Qt***](https://github.com/cronblocks/eserial-qt) - a cross-platform application to greatly help in repetitive communication over a Serial Port
-
-&nbsp; &nbsp; ***You can HELP*** ... Start by giving stars ⭐⭐⭐⭐⭐ to projects, contribute in code & documentation
-
-
-
-&nbsp;
-
-💞️ Collaborations are welcomed, in:
-
-&nbsp; &nbsp; 🚀 &nbsp; &nbsp; *Software* and *firmware* development - Linux, Windows, Arduino, STM32, BeagleBone, NUCs, \*\*PIs, RTOSes, ...
-
-&nbsp; &nbsp; 🚀 &nbsp; &nbsp; *Edge*, *desktop*, *mobile* and *cloud*-hosted 🌩️🌩️🌩️ solutions
-
-&nbsp; &nbsp; 🚀 &nbsp; &nbsp; Ecosystem *integrity* and *security* - as an ongoing effort
-
 # 
-<p align="right">⭐⭐⭐⭐⭐, contribute & shoot a message at <a href="https://www.linkedin.com/in/usa-m"><b>LinkedIn</b></a> ... let's create something <b><i>AMAZING</i></b> together!</p>
+<p align="right">Give ⭐s, and shoot a message at <a href="https://www.linkedin.com/in/usa-m"><b>LinkedIn</b></a> ... let's create <i>something</i> <b><i>AMAZING</i></b> <i>together!</i></p>
 
 
 
