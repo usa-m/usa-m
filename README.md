@@ -1,4 +1,4 @@
-Nice to see you 👀 here!
+Nice to see you 👀 !
 
 Hi 👋 ! I'm Usama, an aeronautical engineer and a life-long learner with former working experience in a prestigious *National defense* enabling *Aviation industry* ✈️ , wherein serving at various positions and in different roles; though, remaining keenly interested in:
 
