@@ -2,11 +2,11 @@ Nice to see you 👀 !
 
 Hi 👋 ! I'm Usama, an aeronautical engineer and a life-long learner with former working experience in a prestigious *National defense* enabling *Aviation industry* ✈️ , wherein serving at various positions and in different roles; though, remaining keenly interested in:
 
-&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; *Reading* 📚, &nbsp; *writing* 🖋️, &nbsp; and *teaching* 🎓 - anything that relates with *modern, and evolving technologies*
+&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; *Reading*, *writing*, and *teaching* - anything that relates with the *modern, and evolving technologies*
 
-&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; Realizing: &nbsp; *Realtime*, &nbsp; *native*, &nbsp; *cross-platform*, &nbsp; *full-stack*, &nbsp; *bare-metal*, &nbsp; and *networked / distributed* 🪐 applications
+&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; Realizing: &nbsp; *Realtime*, *native*, *cross-platform*, *full-stack*, *bare-metal*, and *networked / distributed* 🪐 applications
 
-&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; Designing and implementing *control systems*, &nbsp; *simulations*, &nbsp; and *games* &nbsp; from scratch
+&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; Designing and implementing *control systems*, *simulations*, and *games* from scratch
 
 &nbsp; &nbsp; ⚔️ &nbsp; &nbsp; Understanding and applying *AI* and *ML* - not for using catchy jargons for seeking attention
 
