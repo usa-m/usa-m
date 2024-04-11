@@ -1,6 +1,8 @@
+Hi 👋 !
+
 Nice to see you 👀 !
 
-Hi 👋 ! I'm Usama, an aeronautical engineer and a life-long learner with former working experience in a prestigious *National defense* enabling *Aviation industry* ✈️ , wherein serving at various positions and in different roles; though, remaining keenly interested in:
+I'm an aeronautical engineer and a life-long learner with former working experience in a prestigious *National defense* enabling *Aviation industry* ✈️ , whereby serving at various positions and in different roles; though, remaining keenly interested in:
 
 &nbsp; &nbsp; ⚔️ &nbsp; &nbsp; *Reading*, *writing*, and *teaching* - anything that relates with the *modern, and evolving technologies*
 
