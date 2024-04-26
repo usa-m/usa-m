@@ -29,7 +29,7 @@ I'm an aeronautical engineer and continual learner with former working experienc
 
 &nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***ESerial - Qt***](https://github.com/cronblocks/eserial-qt) - Cross-platform application for greatly helping in repetitive communication tasks over a Serial Port
 
-&nbsp; &nbsp; ***You can HELP*** by giving stars ⭐⭐⭐⭐⭐ , and contributing to code & documentation
+&nbsp; &nbsp; ***HELP*** by giving *stars* ⭐⭐⭐⭐⭐, contributing to *code* & *documentation*
 
 
 
