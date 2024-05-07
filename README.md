@@ -1,6 +1,6 @@
 &nbsp; &nbsp; 👋👋👋
 
-Nice to see you 👀 !
+Hi, nice to see you 👀 !
 
 I'm an aeronautical engineer and continual learner with former working experience in a *National defense* enabling *Aviation industry* ✈️ , whereby serving at various positions and in different roles; though, remaining keenly interested in:
 
