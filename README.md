@@ -4,7 +4,7 @@ Hi, nice to see you 👀 !
 
 I'm an aeronautical engineer and continual learner with former working experience in a *National defense* enabling *Aviation industry* ✈️ , whereby serving at various positions and in different roles; though, remaining keenly interested in:
 
-&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; *Reading*, *writing*, and *teaching* - anything that relates with the *modern, and evolving technologies*
+&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; *Reading*, *writing*, and *training* - anything that relates with the *modern, and evolving technologies*
 
 &nbsp; &nbsp; ⚔️ &nbsp; &nbsp; Realizing: &nbsp; *Realtime*, *native*, *cross-platform*, *full-stack*, *bare-metal*, and *networked / distributed* 🪐 applications
 
