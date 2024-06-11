@@ -2,7 +2,7 @@
 
 Hi, 👀 !
 
-I'm an aeronautical engineer and a learner with former working experience in a *National defense* enabling *Aviation industry* ✈️ , whereby serving at various positions and in different roles; though, remaining keenly interested in:
+I'm an engineer and a learner with former working experience in a *National defense* enabling *Aviation industry* ✈️ , whereby serving at various positions and in different roles; though, remaining keenly interested in:
 
 &nbsp; &nbsp; ⚔️ &nbsp; &nbsp; *Reading*, *writing*, and *imparting training* - anything that relates with the *modern, and evolving technologies*
 
