@@ -52,12 +52,12 @@ I'm an engineer and a learner with former working experience in a *National defe
 <p align="left">
 &nbsp; 
 &nbsp; <a href="https://github.com/cronblocks"><img src="https://avatars.githubusercontent.com/u/86520771?s=32&v=4" alt="CronBlocks" /></a>
+&nbsp; <a href="https://github.com/innolixir"><img src="https://avatars.githubusercontent.com/u/85053112?s=32&v=4" alt="InnoLixir" /></a>
+&nbsp; <a href="https://github.com/ubrant"><img src="https://avatars.githubusercontent.com/u/87671848?s=32&v=4" alt="Ubrant" /></a>
 &nbsp; <a href="https://github.com/dds-dotnet"><img src="https://avatars.githubusercontent.com/u/125957062?s=32&v=4" alt="DDS .Net" /></a>
-&nbsp; <a href="https://github.com/cronblocks-games"><img src="https://avatars.githubusercontent.com/u/148332804?s=32&v=4" alt="CronBlocks Games" /></a>
 &nbsp; <a href="https://github.com/arduino-ba"><img src="https://avatars.githubusercontent.com/u/121078777?s=32&v=4" alt="Arduino - Beginner to Advanced" /></a>
 &nbsp; <a href="https://github.com/move-os"><img src="https://avatars.githubusercontent.com/u/116582302?s=32&v=4" alt="moveOS" /></a>
 &nbsp; <a href="https://github.com/git-mine"><img src="https://avatars.githubusercontent.com/u/125908595?s=32&v=4" alt="Git Mine" /></a>
-&nbsp; <a href="https://github.com/ubrant"><img src="https://avatars.githubusercontent.com/u/87671848?s=32&v=4" alt="Ubrant" /></a>
 </p>
 
 # 
