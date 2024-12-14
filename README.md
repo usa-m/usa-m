@@ -1,21 +1,31 @@
 👋👋👋
 
-Hi, 👀 !
+Hi, 👀 Everyone!
 
-I'm an engineer and a learner with former working experience in a *National defense* enabling *Aviation industry* ✈️ , whereby serving at various positions and in different roles; though, remaining keenly interested in:
+It's been a great experience for me to have remained part of development teams in high-impact projects, with noteworthy ones:
 
-&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; *Reading*, *writing*, and *imparting training* - anything that relates with the *modern, and evolving technologies*
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; Avionics & Weapons Integration on JF-17 aircraft
 
-&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; Realizing: &nbsp; *Realtime*, *native*, *cross-platform*, *full-stack*, *bare-metal*, and *networked / distributed* 🪐 applications
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; Full Flight & Maintenance Simulation for JF-17
 
-&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; Designing and implementing *control systems*, *simulations*, and *games* from scratch
-
-&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; Understanding and applying *AI* and *ML* - not for using catchy jargons for seeking attention
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; Hardware design & development with military & aviation standards
 
 
-&nbsp;
+For 25+ years I've been associated with learning, applying and teaching programming using various devices, development stacks and platforms.
+This includes working with *FPGAs* and *microcontrollers* for a considerable time. Other than the hardware side, my core expertise lies with:
 
-💞️ Some of my openly available projects:
+
+&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; C, C++, Java, C# and Assembly language in mainstream development.
+
+&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; Scripting with BASH, AWK, PowerShell, and Python.
+
+&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; Frontend / UI development utilizing XAML, Qt, XML and Web technologies.
+
+
+However, working with low-level *Windows APIs*, *Linux kernel & distributions*, *RTOSs* (especially *Eclipse ThreadX*), freestanding environments, minimizing security flaws, and maximizing performance are amongst my personal favorites.
+
+
+💞️ Some of my openly available projects, available for everyone:
 
 &nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***DxSurface***](https://github.com/cronblocks-games/DxSurface) - Under-development, light-weight game engine that utilizes *Windows APIs* and *DirectX* with *modern C++*
 
@@ -29,25 +39,25 @@ I'm an engineer and a learner with former working experience in a *National defe
 
 &nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***ESerial - Qt***](https://github.com/cronblocks/eserial-qt) - Cross-platform application for greatly helping in repetitive communication tasks over a Serial Port
 
-&nbsp; &nbsp; ***HELP*** by giving *stars* ⭐⭐⭐⭐⭐, contributing to *code* & *documentation*
+&nbsp; &nbsp; ( ***HELP*** by giving *stars* ⭐⭐⭐⭐⭐, contributing to *code* & *documentation* )
 
 
 
 &nbsp;
 
-💞️ Collaborations are *welcomed*, in:
+💞️ Collaborations are *great* that I seek in:
 
-&nbsp; &nbsp; 🚀 &nbsp; &nbsp; *Software* and *firmware* development - Linux, Windows, Arduino, STM32, BeagleBone, NUCs, \*\*PIs, RTOSes, ...
+&nbsp; &nbsp; 🚀 &nbsp; &nbsp; *Software*/*Firmware* development targeting Linux, Windows, Arduino, STM32, BeagleBone, NUCs, \*\*PIs, RTOSes, ...
 
-&nbsp; &nbsp; 🚀 &nbsp; &nbsp; *Edge*, *desktop*, *mobile* and *cloud*-hosted 🌩️🌩️🌩️ solutions
+&nbsp; &nbsp; 🚀 &nbsp; &nbsp; *Edge*, *Desktop*, *Mobile* and *Cloud*-apps 🌩️🌩️🌩️
 
-&nbsp; &nbsp; 🚀 &nbsp; &nbsp; Ecosystem *integrity* and *security* - as an ongoing effort
+&nbsp; &nbsp; 🚀 &nbsp; &nbsp; Ecosystem *integrity* and *security*
 
 
 
 &nbsp;
 
-💞️ Organizations, that I work through:
+💞️ Organizations, that I maintain my work through:
 
 <p align="left">
 &nbsp; 
@@ -62,6 +72,13 @@ I'm an engineer and a learner with former working experience in a *National defe
 
 # 
 <p align="right">Give ⭐s, and shoot a message at <a href="https://www.linkedin.com/in/usa-m"><b>LinkedIn</b></a> ... let's create <i>something</i> <b><i>AMAZING</i></b> <i>together!</i></p>
+
+
+
+
+Feel free to get in touch.
+
+
 
 
 
