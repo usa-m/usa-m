@@ -32,7 +32,7 @@ Amongst my favorites are: *Windows APIs* (now getting boring with Windows 11), *
 
 &nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***DxSurface***](https://github.com/cronblocks-games/DxSurface) - Light-weight game engine, working with *Windows APIs*/*DirectX* and *C++*
 
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***DDS.Net***](https://github.com/dds-dotnet) - A library to host data-exchange server in a *.NET application* to connect other applications written with *.NET* and *C++*
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***DDS.Net***](https://github.com/dds-dotnet) - A library to host data-exchange server in a *.NET application* to connect other applications written with *.NET/C#* or *C++*
 
 &nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***UTM***](https://github.com/uwshammout/utm) - An application for providing *interfacing with hardware* and making a *Universal Testing Machine*
 
