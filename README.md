@@ -1,10 +1,9 @@
-👋👋👋
 
-Hi, 👀 Everyone!
+Hi 👋... Everyone 👀!
 
-Here's little about my background:
+Here's little about me:
 
-I've remained part of some development teams in projects that can be regarded as "high-impact" ones, like:
+I've worked as part of some development teams in projects that can be regarded as "awesome" ones, like:
 
 &nbsp; &nbsp; ♨️ &nbsp; &nbsp; Avionics & Weapons Integration
 
@@ -13,12 +12,11 @@ I've remained part of some development teams in projects that can be regarded as
 &nbsp; &nbsp; ♨️ &nbsp; &nbsp; Hardware design & development with military/aviation specs
 
 
-It's been 25+ years that I've been associated with learning, doing, and teaching programming.
-In doing so, I've worked with various types of devices, development stacks, and platforms.
-Working with devices includes: *FPGAs*, *microcontrollers*, *PCs*, and *Cloud* platforms.
+As of now, it's been 25+ years that I've been associated with learning, doing, and teaching programming.
+Doing so, I've worked with various types of devices, development stacks, and platforms; including: *FPGAs*, *microcontrollers*, *PCs*, and *Cloud* platforms.
 
 
-On the software development side, my core interests lie with:
+On the software side, my core interests lie with:
 
 &nbsp; &nbsp; ⚔️ &nbsp; &nbsp; C/C++, Java, C#, and Assembly language
 
@@ -27,20 +25,20 @@ On the software development side, my core interests lie with:
 &nbsp; &nbsp; ⚔️ &nbsp; &nbsp; Frontend/UI development with XAML, Qt, XML and Web technologies
 
 
-Amongst my personal favorites are: *Windows APIs* (now boring with Windows 11), *Linux kernel*, *RTOSs* (especially *Eclipse ThreadX*), freestanding development, security flaws, and performance tunings.
+Amongst my favorites are: *Windows APIs* (now getting boring with Windows 11), *Linux kernel*, *RTOSs* (especially *Eclipse ThreadX*), freestanding development, security flaws, and performance tunings.
 
 
-💞️ You can checkout my personal projects:
+💞️ Some of my personal projects, are:
 
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***DxSurface***](https://github.com/cronblocks-games/DxSurface) - Light-weight game engine utilizing *Windows APIs* and *DirectX* with *C++*
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***DxSurface***](https://github.com/cronblocks-games/DxSurface) - Light-weight game engine, working with *Windows APIs*/*DirectX* and *C++*
 
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***DDS.Net***](https://github.com/dds-dotnet) - A library to host data-exchange server in a *.NET application* to connect other applications written in *.NET* and *C++*
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***DDS.Net***](https://github.com/dds-dotnet) - A library to host data-exchange server in a *.NET application* to connect other applications written with *.NET* and *C++*
 
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***UTM***](https://github.com/uwshammout/utm) - Application for *interfacing hardware* into making a *Universal Testing Machine*
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***UTM***](https://github.com/uwshammout/utm) - An application for providing *interfacing with hardware* and making a *Universal Testing Machine*
 
 &nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***FCM***](https://github.com/uwshammout/fcm) - An application to test and monitor *Fuel Cells* and *Electrolyzers* in a lab environment
 
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***CodeLines***](https://github.com/cronblocks/code-lines) - A ittle application that helps in counting the total number of lines of code within a given codebase
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***CodeLines***](https://github.com/cronblocks/code-lines) - A small application for helping in counting the lines of code within a given codebase
 
 &nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***ESerial - Qt***](https://github.com/cronblocks/eserial-qt) - A cross-platform application for helping with repetitive communication tasks over a Serial Port
 
@@ -64,12 +62,9 @@ Amongst my personal favorites are: *Windows APIs* (now boring with Windows 11), 
 </p>
 
 # 
-<p align="right">Give ⭐s, and shoot a message at <a href="https://www.linkedin.com/in/usa-m"><b>LinkedIn</b></a> ... let's create <i>something</i> <b><i>AMAZING</i></b> <i>together!</i></p>
 
 
-
-
-Feel free to contact... perhaps we both can come up with something great together.
+Feel free to contact... perhaps we both can come up with something amazing together.
 
 
 
