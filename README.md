@@ -2,62 +2,55 @@
 
 Hi, 👀 Everyone!
 
-It's been a great experience for me to have remained part of development teams in high-impact projects, with noteworthy ones:
+Here's little about my background:
 
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; Avionics & Weapons Integration on JF-17 aircraft
+I've remained part of some development teams in projects that can be regarded as "high-impact" ones, like:
 
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; Full Flight & Maintenance Simulation for JF-17
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; Avionics & Weapons Integration
 
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; Hardware design & development with military & aviation standards
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; Full Mission Flight & Aircraft Maintenance Simulation
 
-
-For 25+ years I've been associated with learning, applying and teaching programming using various devices, development stacks and platforms.
-This includes working with *FPGAs* and *microcontrollers* for a considerable time. Other than the hardware side, my core expertise lies with:
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; Hardware design & development with military/aviation specs
 
 
-&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; C, C++, Java, C# and Assembly language in mainstream development.
-
-&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; Scripting with BASH, AWK, PowerShell, and Python.
-
-&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; Frontend / UI development utilizing XAML, Qt, XML and Web technologies.
+It's been 25+ years that I've been associated with learning, doing, and teaching programming.
+In doing so, I've worked with various types of devices, development stacks, and platforms.
+Working with devices includes: *FPGAs*, *microcontrollers*, *PCs*, and *Cloud* platforms.
 
 
-However, working with low-level *Windows APIs*, *Linux kernel & distributions*, *RTOSs* (especially *Eclipse ThreadX*), freestanding environments, minimizing security flaws, and maximizing performance are amongst my personal favorites.
+On the software development side, my core interests lie with:
+
+&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; C/C++, Java, C#, and Assembly language
+
+&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; Scripting with BASH, AWK, PowerShell, and Python
+
+&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; Frontend/UI development with XAML, Qt, XML and Web technologies
 
 
-💞️ Some of my openly available projects, available for everyone:
-
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***DxSurface***](https://github.com/cronblocks-games/DxSurface) - Under-development, light-weight game engine that utilizes *Windows APIs* and *DirectX* with *modern C++*
-
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***DDS.Net***](https://github.com/dds-dotnet) - Library to host servers with *.NET applications* so as to connect *.NET* and *C++* applications together
-
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***UTM***](https://github.com/uwshammout/utm) - A *hardware interfacing* and *frontend* application for making *Universal Testing Machines*
-
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***FCM***](https://github.com/uwshammout/fcm) - An application to test and monitor *Fuel Cells* and *Electrolyzers*
-
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***CodeLines***](https://github.com/cronblocks/code-lines) - Counts the total number of lines of code within a given codebase
-
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***ESerial - Qt***](https://github.com/cronblocks/eserial-qt) - Cross-platform application for greatly helping in repetitive communication tasks over a Serial Port
-
-&nbsp; &nbsp; ( ***HELP*** by giving *stars* ⭐⭐⭐⭐⭐, contributing to *code* & *documentation* )
+Amongst my personal favorites are: *Windows APIs* (now boring with Windows 11), *Linux kernel*, *RTOSs* (especially *Eclipse ThreadX*), freestanding development, security flaws, and performance tunings.
 
 
+💞️ You can checkout my personal projects:
 
-&nbsp;
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***DxSurface***](https://github.com/cronblocks-games/DxSurface) - Light-weight game engine utilizing *Windows APIs* and *DirectX* with *C++*
 
-💞️ Collaborations are *great* that I seek in:
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***DDS.Net***](https://github.com/dds-dotnet) - A library to host data-exchange server in a *.NET application* to connect other applications written in *.NET* and *C++*
 
-&nbsp; &nbsp; 🚀 &nbsp; &nbsp; *Software*/*Firmware* development targeting Linux, Windows, Arduino, STM32, BeagleBone, NUCs, \*\*PIs, RTOSes, ...
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***UTM***](https://github.com/uwshammout/utm) - Application for *interfacing hardware* into making a *Universal Testing Machine*
 
-&nbsp; &nbsp; 🚀 &nbsp; &nbsp; *Edge*, *Desktop*, *Mobile* and *Cloud*-apps 🌩️🌩️🌩️
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***FCM***](https://github.com/uwshammout/fcm) - An application to test and monitor *Fuel Cells* and *Electrolyzers* in a lab environment
 
-&nbsp; &nbsp; 🚀 &nbsp; &nbsp; Ecosystem *integrity* and *security*
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***CodeLines***](https://github.com/cronblocks/code-lines) - A ittle application that helps in counting the total number of lines of code within a given codebase
+
+&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***ESerial - Qt***](https://github.com/cronblocks/eserial-qt) - A cross-platform application for helping with repetitive communication tasks over a Serial Port
+
+&nbsp; &nbsp; ( You can ***HELP*** by giving *stars* ⭐⭐⭐⭐⭐, and contributing )
 
 
 
 &nbsp;
 
-💞️ Organizations, that I maintain my work through:
+💞️ Organizations:
 
 <p align="left">
 &nbsp; 
@@ -76,7 +69,8 @@ However, working with low-level *Windows APIs*, *Linux kernel & distributions*, 
 
 
 
-Feel free to get in touch.
+Feel free to contact... perhaps we both can come up with something great together.
+
 
 
 
