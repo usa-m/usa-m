@@ -1,5 +1,5 @@
 
-Hi 👋... Everyone 👀!
+Hi 👋 ... 👀!
 
 Here's little about me:
 
