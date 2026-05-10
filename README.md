@@ -66,13 +66,13 @@ I write code. I teach code. I think deeply about code.
 ## `$ cat organizations.md`
 
 <p align="left">
-  <a href="https://github.com/dds-dotnet" title="DDS .Net"><img src="https://avatars.githubusercontent.com/u/125957062?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
-  <a href="https://github.com/cronblocks" title="CronBlocks"><img src="https://avatars.githubusercontent.com/u/86520771?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
-  <a href="https://github.com/innolixir" title="InnoLixir"><img src="https://avatars.githubusercontent.com/u/85053112?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
-  <a href="https://github.com/ubrant" title="Ubrant"><img src="https://avatars.githubusercontent.com/u/87671848?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
-  <a href="https://github.com/arduino-ba" title="Arduino – Beginner to Advanced"><img src="https://avatars.githubusercontent.com/u/121078777?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
-  <a href="https://github.com/move-os" title="moveOS"><img src="https://avatars.githubusercontent.com/u/116582302?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
-  <a href="https://github.com/git-mine" title="Git Mine"><img src="https://avatars.githubusercontent.com/u/125908595?s=28&v=4" width="28" style="border-radius:4px;" /></a>
+  <a href="https://github.com/dds-dotnet" title="DDS .Net" target="_blank"><img src="https://avatars.githubusercontent.com/u/125957062?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
+  <a href="https://github.com/cronblocks" title="CronBlocks" target="_blank"><img src="https://avatars.githubusercontent.com/u/86520771?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
+  <a href="https://github.com/innolixir" title="InnoLixir" target="_blank"><img src="https://avatars.githubusercontent.com/u/85053112?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
+  <a href="https://github.com/ubrant" title="Ubrant" target="_blank"><img src="https://avatars.githubusercontent.com/u/87671848?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
+  <a href="https://github.com/arduino-ba" title="Arduino – Beginner to Advanced" target="_blank"><img src="https://avatars.githubusercontent.com/u/121078777?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
+  <a href="https://github.com/move-os" title="moveOS" target="_blank"><img src="https://avatars.githubusercontent.com/u/116582302?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
+  <a href="https://github.com/git-mine" title="Git Mine" target="_blank"><img src="https://avatars.githubusercontent.com/u/125908595?s=28&v=4" width="28" style="border-radius:4px;" /></a>
 </p>
 
 <br />
@@ -81,7 +81,8 @@ I write code. I teach code. I think deeply about code.
 
 ## `$ echo $CONTACT`
 
-If you are working on something that demands **precision, performance, depth** — let's talk.
+If you are working on something that demands ***precision***, ***performance***, ***depth*** — let's talk.
+
 Open to collaboration, consulting, and conversations that may go somewhere interesting.
 
 <div align="center">
