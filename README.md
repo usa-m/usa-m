@@ -1,74 +1,111 @@
+<div align="center">
 
-Hi 👋 ... 👀!
+```
+╔══════════════════════════════════════════════════════════════╗
+║          SYSTEMS ENGINEER  ·  EMBEDDED ARCHITECT             ║
+║          25+ YEARS IN MISSION-CRITICAL SOFTWARE              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-Here's little about me:
+</div>
 
-I've worked as part of some development teams in projects that can be regarded as "awesome" ones, like:
+<br />
 
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; Avionics & Weapons Integration
+---
 
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; Full Mission Flight & Aircraft Maintenance Simulation
+<br />
 
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; Hardware design & development with military/aviation specs
+## `$ whoami`
 
+Engineer with over **25 years** of hands-on experience spanning the full depth of the computing stack — from bare-metal silicon to cloud-scale systems. I have contributed to projects where correctness is not optional, including **avionics & weapons integration**, **full-mission flight simulation**, and **aircraft maintenance simulation systems**. I have also led hardware design and development under **military and aviation specifications**.
 
-As of now, it's been 25+ years that I've been associated with learning, doing, and teaching programming.
-Doing so, I've worked with various types of devices, development stacks, and platforms; including: *FPGAs*, *microcontrollers*, *PCs*, and *Cloud* platforms.
+I write code. I teach code. I think deeply about code.
 
+<br />
 
-On the software side, my core interests lie with:
+---
 
-&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; C/C++, Java, C#, and Assembly language
+<br />
 
-&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; Scripting with BASH, AWK, PowerShell, and Python
+## `$ cat expertise.cfg`
 
-&nbsp; &nbsp; ⚔️ &nbsp; &nbsp; Frontend/UI development with XAML, Qt, XML and Web technologies
+### ⬡ Core Languages
 
+| Domain | Technologies |
+|---|---|
+| **Systems & Performance** | C, C++, Assembly (x86 / ARM / MIPS) |
+| **Managed & Enterprise** | Java, C# (.NET) |
+| **Automation & Scripting** | Python, Bash, AWK, PowerShell |
+| **UI & Frontend** | XAML, Qt, XML, Web Technologies |
 
-Amongst my favorites are: *Windows APIs* (now getting boring with Windows 11), *Linux kernel*, *RTOSs* (especially *Eclipse ThreadX*), freestanding development, security flaws, and performance tunings.
+<br />
 
+### ⬡ Platforms & Targets
 
-💞️ Some of my personal projects, are:
+`FPGAs` · `Microcontrollers` · `RTOSs` · `Linux Kernel` · `Windows APIs` · `Cloud` · `Freestanding / Bare-Metal`
 
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***DxSurface***](https://github.com/cronblocks-games/DxSurface) - Light-weight game engine, working with *Windows APIs*/*DirectX* and *C++*
+<br />
 
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***DDS.Net***](https://github.com/dds-dotnet) - A library to host data-exchange server in a *.NET application* to connect other applications written with *.NET* or *C++*
+### ⬡ Deep Interests
 
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***UTM***](https://github.com/uwshammout/utm) - An application for providing *interfacing with hardware* and making a *Universal Testing Machine*
+- **Real-Time Operating Systems** — especially *Eclipse ThreadX*
+- **Freestanding & bare-metal development**
+- **Security vulnerability analysis & exploitation research**
+- **Performance profiling, tuning & optimization**
+- **Linux kernel internals**
 
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***FCM***](https://github.com/uwshammout/fcm) - An application to test and monitor *Fuel Cells* and *Electrolyzers* in a lab environment
+<br />
 
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***CodeLines***](https://github.com/cronblocks/code-lines) - A small application for helping in counting the lines of code within a given codebase
+---
 
-&nbsp; &nbsp; ♨️ &nbsp; &nbsp; [***ESerial - Qt***](https://github.com/cronblocks/eserial-qt) - A cross-platform application for helping with repetitive communication tasks over a Serial Port
+<br />
 
-&nbsp; &nbsp; ( You can ***HELP*** by giving *stars* ⭐⭐⭐⭐⭐, and contributing )
+## `$ ls -la projects/open-domain`
 
+| Project | Description |
+|---|---|
+| [**DxSurface**](https://github.com/cronblocks-games/DxSurface) | Lightweight C++ game engine built on *Windows APIs* and *DirectX* |
+| [**DDS.Net**](https://github.com/dds-dotnet) | Data-exchange server library for *.NET* and *C++* inter-application communication |
+| [**UTM**](https://github.com/uwshammout/utm) | Hardware-interfacing application for a *Universal Testing Machine* |
+| [**FCM**](https://github.com/uwshammout/fcm) | Lab-grade monitoring system for *Fuel Cells* and *Electrolyzers* |
+| [**CodeLines**](https://github.com/cronblocks/code-lines) | Codebase line-count analysis tool |
+| [**ESerial · Qt**](https://github.com/cronblocks/eserial-qt) | Cross-platform serial communication automation utility |
 
+> These projects are open-source. If they've been useful to you, a ⭐ and a contribution go a long way.
 
-&nbsp;
+<br />
 
-💞️ Organizations:
+---
+
+<br />
+
+## `$ cat organizations.md`
 
 <p align="left">
-&nbsp; 
-&nbsp; <a href="https://github.com/dds-dotnet"><img src="https://avatars.githubusercontent.com/u/125957062?s=32&v=4" alt="DDS .Net" /></a>
-&nbsp; <a href="https://github.com/cronblocks"><img src="https://avatars.githubusercontent.com/u/86520771?s=32&v=4" alt="CronBlocks" /></a>
-&nbsp; <a href="https://github.com/innolixir"><img src="https://avatars.githubusercontent.com/u/85053112?s=32&v=4" alt="InnoLixir" /></a>
-&nbsp; <a href="https://github.com/ubrant"><img src="https://avatars.githubusercontent.com/u/87671848?s=32&v=4" alt="Ubrant" /></a>
-&nbsp; <a href="https://github.com/arduino-ba"><img src="https://avatars.githubusercontent.com/u/121078777?s=32&v=4" alt="Arduino - Beginner to Advanced" /></a>
-&nbsp; <a href="https://github.com/move-os"><img src="https://avatars.githubusercontent.com/u/116582302?s=32&v=4" alt="moveOS" /></a>
-&nbsp; <a href="https://github.com/git-mine"><img src="https://avatars.githubusercontent.com/u/125908595?s=32&v=4" alt="Git Mine" /></a>
+  <a href="https://github.com/dds-dotnet" title="DDS .Net"><img src="https://avatars.githubusercontent.com/u/125957062?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
+  <a href="https://github.com/cronblocks" title="CronBlocks"><img src="https://avatars.githubusercontent.com/u/86520771?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
+  <a href="https://github.com/innolixir" title="InnoLixir"><img src="https://avatars.githubusercontent.com/u/85053112?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
+  <a href="https://github.com/ubrant" title="Ubrant"><img src="https://avatars.githubusercontent.com/u/87671848?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
+  <a href="https://github.com/arduino-ba" title="Arduino – Beginner to Advanced"><img src="https://avatars.githubusercontent.com/u/121078777?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
+  <a href="https://github.com/move-os" title="moveOS"><img src="https://avatars.githubusercontent.com/u/116582302?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
+  <a href="https://github.com/git-mine" title="Git Mine"><img src="https://avatars.githubusercontent.com/u/125908595?s=28&v=4" width="28" style="border-radius:4px;" /></a>
 </p>
 
-# 
+<br />
 
+---
 
-Feel free to contact... perhaps we both can come up with something amazing together.
+<br />
 
+## `$ echo $CONTACT`
 
+If you are working on something that demands **precision, performance, depth** — let's talk.
+Open to collaboration, consulting, and conversations that may go somewhere interesting.
 
+<div align="center">
 
+```
+[ embedded · real-time · mission-critical · systems · simulations ]
+```
 
-
-
+</div>
