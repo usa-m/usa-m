@@ -13,7 +13,7 @@
 
 ## `$ whoami`
 
-Engineer with over **25 years** of hands-on experience spanning the full depth of the computing stack — from bare-metal silicon to cloud-scale systems. I have contributed to projects where correctness is not optional, including **avionics & weapons integration**, **full-mission flight simulation**, and **aircraft maintenance simulation systems**. I have also led hardware design and development under **military and aviation specifications**.
+Engineer with over ***25+*** **years** of hands-on experience spanning *breadth* and *depth* of the computing stack — from bare-metal silicon to cloud-scale systems. I have contributed to projects where correctness is *not* optional: including **avionics & weapons integration**, **full-mission flight simulation**, and **aircraft maintenance simulation** systems. I have also led hardware design and development under **military** and **aviation** specifications.
 
 I write code. I teach code. I think deeply about code.
 
@@ -25,19 +25,19 @@ I write code. I teach code. I think deeply about code.
 
 | Domain | Technologies |
 |---|---|
-| **Systems & Performance** | C, C++, Assembly (x86 / ARM / MIPS) |
-| **Managed & Enterprise** | Java, C# (.NET) |
-| **Automation & Scripting** | Python, Bash, AWK, PowerShell |
-| **UI & Frontend** | XAML, Qt, XML, Web Technologies |
+| **Systems** ***&*** **Performance** | *C*, *C++*, *Assembly* (x86 / ARM / MIPS) |
+| **Managed** ***&*** **Enterprise** | *Java*, *C#* (*.NET*) |
+| **Automation** ***&*** **Scripting** | *Python*, *Bash*, *AWK*, *PowerShell* |
+| **UI** ***&*** **Frontend** | *XAML*, *Qt*, *XML*, *Web Technologies* |
 
 ### ⬡ Platforms & Targets
 
-`FPGAs` · `Microcontrollers` · `RTOSs` · `Linux Kernel` · `Windows APIs` · `Cloud` · `Freestanding / Bare-Metal`
+`FPGAs` · `Microcontrollers` · `Freestanding` · `RTOSs` · `Linux Kernel` · `Windows APIs` · `Cloud`
 
 ### ⬡ Deep Interests
 
-- **Real-Time Operating Systems** — especially *Eclipse ThreadX*
-- **Freestanding & bare-metal development**
+- **Realtime Operating Systems**
+- **Freestanding / bare-metal development**
 - **Security vulnerability analysis & exploitation research**
 - **Performance profiling, tuning & optimization**
 - **Linux kernel internals**
@@ -50,14 +50,14 @@ I write code. I teach code. I think deeply about code.
 
 | Project | Description |
 |---|---|
-| [**DxSurface**](https://github.com/cronblocks-games/DxSurface) | Lightweight C++ game engine built on *Windows APIs* and *DirectX* |
-| [**DDS.Net**](https://github.com/dds-dotnet) | Data-exchange server library for *.NET* and *C++* inter-application communication |
-| [**UTM**](https://github.com/uwshammout/utm) | Hardware-interfacing application for a *Universal Testing Machine* |
+| [**UTM**](https://github.com/uwshammout/utm) | Hardware-interfacing application for building a *Universal Testing Machine* |
+| [**DDS.Net**](https://github.com/dds-dotnet) | Data-exchange server & library for enabling *.NET* and *C++* inter-application communication |
+| [**DxSurface**](https://github.com/cronblocks-games/DxSurface) | Lightweight C++-based game engine, built using *Windows APIs* and *DirectX* |
 | [**FCM**](https://github.com/uwshammout/fcm) | Lab-grade monitoring system for *Fuel Cells* and *Electrolyzers* |
 | [**CodeLines**](https://github.com/cronblocks/code-lines) | Codebase line-count analysis tool |
-| [**ESerial · Qt**](https://github.com/cronblocks/eserial-qt) | Cross-platform serial communication automation utility |
+| [**ESerial·Qt**](https://github.com/cronblocks/eserial-qt) | Cross-platform serial communication automation utility for hardware developers |
 
-> These projects are open-source. If they've been useful to you, a ⭐ and a contribution go a long way.
+> These projects are open-source. If they've been useful to you, a contribution and a ⭐ go a long way.
 
 <br />
 
