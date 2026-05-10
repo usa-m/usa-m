@@ -2,16 +2,12 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║          SYSTEMS ENGINEER  ·  EMBEDDED ARCHITECT             ║
-║          25+ YEARS IN MISSION-CRITICAL SOFTWARE              ║
+║          SYSTEMS ENGINEER  ·  EMBEDDED ARCHITECT             
+           25+ YEARS IN MISSION-CRITICAL SOFTWARE              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
-
-<br />
-
----
 
 <br />
 
@@ -20,10 +16,6 @@
 Engineer with over **25 years** of hands-on experience spanning the full depth of the computing stack — from bare-metal silicon to cloud-scale systems. I have contributed to projects where correctness is not optional, including **avionics & weapons integration**, **full-mission flight simulation**, and **aircraft maintenance simulation systems**. I have also led hardware design and development under **military and aviation specifications**.
 
 I write code. I teach code. I think deeply about code.
-
-<br />
-
----
 
 <br />
 
@@ -38,13 +30,9 @@ I write code. I teach code. I think deeply about code.
 | **Automation & Scripting** | Python, Bash, AWK, PowerShell |
 | **UI & Frontend** | XAML, Qt, XML, Web Technologies |
 
-<br />
-
 ### ⬡ Platforms & Targets
 
 `FPGAs` · `Microcontrollers` · `RTOSs` · `Linux Kernel` · `Windows APIs` · `Cloud` · `Freestanding / Bare-Metal`
-
-<br />
 
 ### ⬡ Deep Interests
 
@@ -55,8 +43,6 @@ I write code. I teach code. I think deeply about code.
 - **Linux kernel internals**
 
 <br />
-
----
 
 <br />
 
@@ -75,8 +61,6 @@ I write code. I teach code. I think deeply about code.
 
 <br />
 
----
-
 <br />
 
 ## `$ cat organizations.md`
@@ -93,8 +77,6 @@ I write code. I teach code. I think deeply about code.
 
 <br />
 
----
-
 <br />
 
 ## `$ echo $CONTACT`
@@ -105,7 +87,7 @@ Open to collaboration, consulting, and conversations that may go somewhere inter
 <div align="center">
 
 ```
-[ embedded · real-time · mission-critical · systems · simulations ]
+[ embedded · real-time · mission-critical · architecture · simulations ]
 ```
 
 </div>
