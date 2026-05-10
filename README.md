@@ -32,7 +32,12 @@ I write code. I teach code. I think deeply about code.
 
 ### ⬡ Platforms & Targets
 
-`FPGAs` · `Microcontrollers` · `Freestanding` · `RTOSs` · `Linux Kernel` · `Windows APIs` · `Cloud`
+`FPGAs` · `Microcontrollers` · `SoCs`
+
+`Mobile` · `Web` · `Cloud`
+
+`Freestanding` · `RTOSs` · `Linux Kernel` · `Windows APIs`
+
 
 ### ⬡ Deep Interests
 
