@@ -2,7 +2,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║          SYSTEMS ENGINEER  ·  EMBEDDED ARCHITECT             
+║          SYSTEMS ENGINEER  ·  EMBEDDED ARCHITECT              
            25+ YEARS IN MISSION-CRITICAL SOFTWARE              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
