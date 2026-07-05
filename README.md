@@ -1,74 +1,65 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║          SYSTEMS ENGINEER  ·  EMBEDDED ARCHITECT              
-           25+ YEARS IN MISSION-CRITICAL SOFTWARE              ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════╗
+║                SYSTEMS ENGINEER  ·  EMBEDDED ARCHITECT                   ║
+║                   25+ YEARS IN SOFTWARE DEVELOPMENT                      ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 <br />
 
-## `$ whoami`
+### `$ whoami`
 
-Engineer with over ***25+*** **years** of hands-on experience spanning *breadth* and *depth* of the computing stack — from bare-metal silicon to cloud-scale systems. I have contributed to projects where correctness is *not* optional: including **avionics & weapons integration**, **full-mission flight simulation**, and **aircraft maintenance simulation** systems. I have also led hardware design and development under **military** and **aviation** specifications.
+An engineer with 25+ years of hands-on experience in software development — spanning *breadth* and *depth* of the computing stack — bare-metal silicon to cloud-scale systems. Over time, I have contributed to projects where correctness is just not optional: like `avionics & weapons integration`, `full-mission flight simulation`, and `airborne avionics systems`. I have led hardware designs and their development in meeting *military* and *aviation-grade* specifications.
 
-I write code. I teach code. I think deeply about code.
+### `$ cat expertise.cfg`
 
-<br />
-
-## `$ cat expertise.cfg`
-
-### ⬡ Core Languages
+#### ⬡ Core Languages & Frameworks
 
 | Domain | Technologies |
 |---|---|
-| **Systems** ***&*** **Performance** | *C*, *C++*, *Assembly* (x86 / ARM / MIPS) |
-| **Managed** ***&*** **Enterprise** | *Java*, *C#* (*.NET*) |
-| **Automation** ***&*** **Scripting** | *Python*, *Bash*, *AWK*, *PowerShell* |
-| **UI** ***&*** **Frontend** | *XAML*, *Qt*, *XML*, *Web Technologies* |
+| Systems ***&*** Performance | *C*, *C++*, *Assembly* (x86 / ARM / MIPS) |
+| Managed ***&*** Enterprise | *Java*, *C#/.NET* |
+| Automation ***&*** Scripting | *Python*, *Bash*, *AWK*, *PowerShell* |
+| UI ***&*** Frontend | *XAML*, *Qt*, *XML*, *Web Technologies* |
 
-### ⬡ Platforms & Targets
+
+#### ⬡ Platforms & Targets
 
 `FPGAs` · `Microcontrollers` · `SoCs`
 
 `Mobile` · `Web` · `Cloud`
 
-`Freestanding` · `RTOSs` · `Linux Kernel` · `Windows APIs`
+`Freestanding` · `RTOS-based` · `Linux Kernel` · `Windows APIs`
 
 
-### ⬡ Deep Interests
+#### ⬡ Deep Interests
 
-- **Realtime Operating Systems**
-- **Freestanding / bare-metal development**
-- **Security vulnerability analysis & exploitation research**
-- **Performance profiling, tuning & optimization**
-- **Linux kernel internals**
+- Realtime Operating Systems
+- Freestanding / bare-metal development
+- Secure programming
+- Performance profiling, tuning & optimization
+- Kernel internals
 
-<br />
 
-<br />
-
-## `$ ls -la projects/open-domain`
+### `$ ls -la projects/open-domain`
 
 | Project | Description |
 |---|---|
-| [**UTM**](https://github.com/uwshammout/utm) | Hardware-interfacing application for building a *Universal Testing Machine* |
-| [**DDS.Net**](https://github.com/dds-dotnet) | Data-exchange server & library for enabling *.NET* and *C++* inter-application communication |
-| [**DxSurface**](https://github.com/cronblocks-games/DxSurface) | Lightweight C++-based game engine, built using *Windows APIs* and *DirectX* |
-| [**FCM**](https://github.com/uwshammout/fcm) | Lab-grade monitoring system for *Fuel Cells* and *Electrolyzers* |
-| [**CodeLines**](https://github.com/cronblocks/code-lines) | Codebase line-count analysis tool |
-| [**ESerial·Qt**](https://github.com/cronblocks/eserial-qt) | Cross-platform serial communication automation utility for hardware developers |
+| [*UTM*](https://github.com/uwshammout/utm) | Hardware-interface application for building a *Universal Testing Machine* |
+| [*DDS.Net*](https://github.com/dds-dotnet) | Data-exchange server & library for allowing *.NET* and *C++*-based applications to communicate |
+| [*DxSurface*](https://github.com/cronblocks-games/DxSurface) | C++-based game engine, built using *Windows APIs* and *DirectX* |
+| [*FCM*](https://github.com/uwshammout/fcm) | Monitoring tool for *Fuel Cells* and *Electrolyzers* |
+| [*CodeLines*](https://github.com/cronblocks/code-lines) | Line-count analysis tool |
+| [*ESerial·Qt*](https://github.com/cronblocks/eserial-qt) | Cross-platform serial communication and automation utility for hardware engineers |
 
 > These projects are open-source. If they've been useful to you, a contribution and a ⭐ go a long way.
 
-<br />
 
-<br />
-
-## `$ cat organizations.md`
+### `$ cat organizations.md`
 
 <p align="left">
   <a href="https://github.com/dds-dotnet" title="DDS .Net" target="_blank"><img src="https://avatars.githubusercontent.com/u/125957062?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
@@ -80,11 +71,8 @@ I write code. I teach code. I think deeply about code.
   <a href="https://github.com/git-mine" title="Git Mine" target="_blank"><img src="https://avatars.githubusercontent.com/u/125908595?s=28&v=4" width="28" style="border-radius:4px;" /></a>
 </p>
 
-<br />
 
-<br />
-
-## `$ echo $CONTACT`
+### `$ echo $CONTACT`
 
 If you are working on something that demands ***precision***, ***performance***, ***depth*** — let's talk.
 
