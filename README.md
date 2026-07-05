@@ -11,13 +11,15 @@
 
 <br />
 
-### `$ whoami`
+### $ &nbsp; whoami
 
 An engineer with 25+ years of hands-on experience in software development — spanning *breadth* and *depth* of the computing stack — bare-metal silicon to cloud-scale systems. Over time, I have contributed to projects where correctness is just not optional: like `avionics & weapons integration`, `full-mission flight simulation`, and `airborne avionics systems`. I have led hardware designs and their development in meeting *military* and *aviation-grade* specifications.
 
-### `$ cat expertise.cfg`
+<br />
 
-#### ⬡ Core Languages & Frameworks
+### $ &nbsp; cat expertise.cfg
+
+#### ⬡ &nbsp; &nbsp; Core Languages & Frameworks
 
 | Domain | Technologies |
 |---|---|
@@ -27,7 +29,7 @@ An engineer with 25+ years of hands-on experience in software development — sp
 | UI ***&*** Frontend | *XAML*, *Qt*, *XML*, *Web Technologies* |
 
 
-#### ⬡ Platforms & Targets
+#### ⬡ &nbsp; &nbsp; Platforms & Targets
 
 `FPGAs` · `Microcontrollers` · `SoCs`
 
@@ -36,7 +38,7 @@ An engineer with 25+ years of hands-on experience in software development — sp
 `Freestanding` · `RTOS-based` · `Linux Kernel` · `Windows APIs`
 
 
-#### ⬡ Deep Interests
+#### ⬡ &nbsp; &nbsp; Deep Interests
 
 - Realtime Operating Systems
 - Freestanding / bare-metal development
@@ -44,8 +46,9 @@ An engineer with 25+ years of hands-on experience in software development — sp
 - Performance profiling, tuning & optimization
 - Kernel internals
 
+<br />
 
-### `$ ls -la projects/open-domain`
+### $ &nbsp; ls -la projects/open-domain
 
 | Project | Description |
 |---|---|
@@ -56,10 +59,11 @@ An engineer with 25+ years of hands-on experience in software development — sp
 | [*CodeLines*](https://github.com/cronblocks/code-lines) | Line-count analysis tool |
 | [*ESerial·Qt*](https://github.com/cronblocks/eserial-qt) | Cross-platform serial communication and automation utility for hardware engineers |
 
-> These projects are open-source. If they've been useful to you, a contribution and a ⭐ go a long way.
+> These are open-source. If useful to you, a contribution and a ⭐ may go a long way.
 
+<br />
 
-### `$ cat organizations.md`
+### $ &nbsp; cat organizations.md
 
 <p align="left">
   <a href="https://github.com/dds-dotnet" title="DDS .Net" target="_blank"><img src="https://avatars.githubusercontent.com/u/125957062?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
@@ -71,8 +75,9 @@ An engineer with 25+ years of hands-on experience in software development — sp
   <a href="https://github.com/git-mine" title="Git Mine" target="_blank"><img src="https://avatars.githubusercontent.com/u/125908595?s=28&v=4" width="28" style="border-radius:4px;" /></a>
 </p>
 
+<br />
 
-### `$ echo $CONTACT`
+### $ &nbsp; echo $CONTACT
 
 If you are working on something that demands ***precision***, ***performance***, ***depth*** — let's talk.
 
