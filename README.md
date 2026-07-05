@@ -21,22 +21,28 @@ An engineer with 25+ years of hands-on experience in software development — sp
 
 #### ⬡ &nbsp; &nbsp; Core Languages & Frameworks
 
-| Domain | Technologies |
-|---|---|
-| Systems ***&*** Performance | *C*, *C++*, *Assembly* (x86 / ARM / MIPS) |
-| Managed ***&*** Enterprise | *Java*, *C#/.NET* |
-| Automation ***&*** Scripting | *Python*, *Bash*, *AWK*, *PowerShell* |
-| UI ***&*** Frontend | *XAML*, *Qt*, *XML*, *Web Technologies* |
+<div align="center">
 
+  | Domain | Technologies |
+  |---|---|
+  | Systems ***&*** Performance | *C*, *C++*, *Assembly* (x86 / ARM / MIPS) |
+  | Managed ***&*** Enterprise | *Java*, *C#/.NET* |
+  | Automation ***&*** Scripting | *Python*, *Bash*, *AWK*, *PowerShell* |
+  | UI ***&*** Frontend | *XAML*, *Qt*, *XML*, *Web Technologies* |
+
+</div>
 
 #### ⬡ &nbsp; &nbsp; Platforms & Targets
 
-`FPGAs` · `Microcontrollers` · `SoCs`
+<div align="center">
 
-`Mobile` · `Web` · `Cloud`
+  `FPGAs` · `Microcontrollers` · `SoCs`
+  
+  `Mobile` · `Web` · `Cloud`
+  
+  `Freestanding` · `RTOS-based` · `Linux Kernel` · `Windows APIs`
 
-`Freestanding` · `RTOS-based` · `Linux Kernel` · `Windows APIs`
-
+</div>
 
 #### ⬡ &nbsp; &nbsp; Deep Interests
 
@@ -50,22 +56,27 @@ An engineer with 25+ years of hands-on experience in software development — sp
 
 ### $ &nbsp; ls -la projects/open-domain
 
-| Project | Description |
-|---|---|
-| [*UTM*](https://github.com/uwshammout/utm) | Hardware-interface application for building a *Universal Testing Machine* |
-| [*DDS.Net*](https://github.com/dds-dotnet) | Data-exchange server & library for allowing *.NET* and *C++*-based applications to communicate |
-| [*DxSurface*](https://github.com/cronblocks-games/DxSurface) | C++-based game engine, built using *Windows APIs* and *DirectX* |
-| [*FCM*](https://github.com/uwshammout/fcm) | Monitoring tool for *Fuel Cells* and *Electrolyzers* |
-| [*CodeLines*](https://github.com/cronblocks/code-lines) | Line-count analysis tool |
-| [*ESerial·Qt*](https://github.com/cronblocks/eserial-qt) | Cross-platform serial communication and automation utility for hardware engineers |
+<div align="center">
+  
+  | Project | Description |
+  |---|---|
+  | [*UTM*](https://github.com/uwshammout/utm) | Hardware-interface application for building a *Universal Testing Machine* |
+  | [*DDS.Net*](https://github.com/dds-dotnet) | Data-exchange server & library for allowing *.NET* and *C++*-based applications to communicate |
+  | [*DxSurface*](https://github.com/cronblocks-games/DxSurface) | C++-based game engine, built using *Windows APIs* and *DirectX* |
+  | [*FCM*](https://github.com/uwshammout/fcm) | Monitoring tool for *Fuel Cells* and *Electrolyzers* |
+  | [*CodeLines*](https://github.com/cronblocks/code-lines) | Line-count analysis tool |
+  | [*ESerial·Qt*](https://github.com/cronblocks/eserial-qt) | Cross-platform serial communication and automation utility for hardware engineers |
+  
+  These are open-source. If useful to you, a contribution and a ⭐ go a long way.
 
-> These are open-source. If useful to you, a contribution and a ⭐ may go a long way.
+</div>
 
+<!--
 <br />
 
 ### $ &nbsp; cat organizations.md
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/dds-dotnet" title="DDS .Net" target="_blank"><img src="https://avatars.githubusercontent.com/u/125957062?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
   <a href="https://github.com/cronblocks" title="CronBlocks" target="_blank"><img src="https://avatars.githubusercontent.com/u/86520771?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
   <a href="https://github.com/innolixir" title="InnoLixir" target="_blank"><img src="https://avatars.githubusercontent.com/u/85053112?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
@@ -74,6 +85,7 @@ An engineer with 25+ years of hands-on experience in software development — sp
   <a href="https://github.com/move-os" title="moveOS" target="_blank"><img src="https://avatars.githubusercontent.com/u/116582302?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
   <a href="https://github.com/git-mine" title="Git Mine" target="_blank"><img src="https://avatars.githubusercontent.com/u/125908595?s=28&v=4" width="28" style="border-radius:4px;" /></a>
 </p>
+-->
 
 <br />
 
