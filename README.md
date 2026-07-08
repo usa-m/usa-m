@@ -69,7 +69,7 @@ An engineer having 25+ years of experience in software development — spanning 
   | [*CodeLines*](https://github.com/cronblocks/code-lines) | Line-count tool for analyzing codebases |
   | [*ESerial·Qt*](https://github.com/cronblocks/eserial-qt) | Cross-platform tool for serial communication and automation for hardware development |
   
-  These are open-source. If useful to you, a contribution and a ⭐ go a long way.
+  These are open-source projects. If useful for you, a contribution and a ⭐ go a long way.
 
 </div>
 
@@ -93,14 +93,16 @@ An engineer having 25+ years of experience in software development — spanning 
 
 ### $ &nbsp; echo $CONTACT
 
-If you are working on something that demands ***precision***, ***performance***, ***depth*** — let's talk.
+Working on something that demands *precision*, *performance*, and/or *depth*? — let's talk.
 
-Open to collaboration, consulting, and conversations that may go somewhere interesting.
+Open to collaborate:
 
 <div align="center">
 
-```
-[ embedded · real-time · mission-critical · architecture · simulations ]
-```
+`system architecture` · `simulations`
+
+`cloud` · `desktop` · `mobile` · `embedded` · `web`
+
+`real-time` · `mission-critical` · `distributed`
 
 </div>
