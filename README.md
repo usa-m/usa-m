@@ -62,12 +62,12 @@ An engineer having 25+ years of experience in software development — spanning 
   
   | Project | Description |
   |---|---|
-  | [*UTM*](https://github.com/uwshammout/utm) | Hardware-interface application for building a *Universal Testing Machine* |
-  | [*DDS.Net*](https://github.com/dds-dotnet) | Data-exchange server & library for allowing *.NET* and *C++*-based applications to communicate |
-  | [*DxSurface*](https://github.com/cronblocks-games/DxSurface) | C++-based game engine, built using *Windows APIs* and *DirectX* |
-  | [*FCM*](https://github.com/uwshammout/fcm) | Monitoring tool for *Fuel Cells* and *Electrolyzers* |
-  | [*CodeLines*](https://github.com/cronblocks/code-lines) | Line-count analysis tool |
-  | [*ESerial·Qt*](https://github.com/cronblocks/eserial-qt) | Cross-platform serial communication and automation utility for hardware engineers |
+  | [*UTM*](https://github.com/uwshammout/utm) | Interface application for building a *Universal Testing Machine* (UTM) using data acquisition hardware |
+  | [*DDS.Net*](https://github.com/dds-dotnet) | Server & library for allowing data-exchange amongst *.NET* and *C++*-based applications |
+  | [*DxSurface*](https://github.com/cronblocks-games/DxSurface) | A game engine core, built using *Windows APIs*, *DirectX*, and modern C++ |
+  | [*FCM*](https://github.com/uwshammout/fcm) | Data acquisition and monitoring tool for *Fuel Cells* and *Electrolyzers* |
+  | [*CodeLines*](https://github.com/cronblocks/code-lines) | Line-count tool for analyzing codebases |
+  | [*ESerial·Qt*](https://github.com/cronblocks/eserial-qt) | Cross-platform tool for serial communication and automation for hardware development |
   
   These are open-source. If useful to you, a contribution and a ⭐ go a long way.
 
