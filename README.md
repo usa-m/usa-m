@@ -15,7 +15,7 @@
 
 ### $ &nbsp; whoami
 
-An engineer with 25+ years of hands-on experience in software development — spanning *breadth* and *depth* of the computing stack — bare-metal silicon to cloud-scale systems. Over time, I have contributed to projects where correctness is just not optional: like `avionics & weapons integration`, `full-mission flight simulation`, and `airborne avionics systems`. I have led hardware designs and their development in meeting *military* and *aviation-grade* specifications.
+An engineer having 25+ years of experience in software development — spanning *breadth* and *depth* of the computing stack — ranging from bare-metal silicon to cloud-scale applications. I have contributed to projects wherein correctness is not optional: `avionics & weapons integration`, `full-mission flight simulation`, `airborne avionics`, and have led hardware designs in meeting `military` and `aviation-grade` specifications.
 
 <br />
 
