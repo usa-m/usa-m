@@ -93,16 +93,12 @@ An engineer having 25+ years of experience in software development — spanning 
 
 ### $ &nbsp; echo $CONTACT
 
-Working on something that demands *precision*, *performance*, and/or *depth*? — let's talk.
-
-Open to collaborate:
+Working on something that demands *precision*, *performance*, and/or *depth*? — let's talk:
 
 <div align="center">
 
-`system architecture` · `simulations`
+`system architecture` · `simulations` · `real-time` · `mission-critical`
 
 `cloud` · `desktop` · `mobile` · `embedded` · `web`
-
-`real-time` · `mission-critical` · `distributed`
 
 </div>
