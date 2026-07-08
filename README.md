@@ -27,10 +27,10 @@ An engineer having 25+ years of experience in software development — spanning 
 
   | Domain | Technologies |
   |---|---|
-  | Systems ***&*** Performance | *C*, *C++*, *Assembly* (x86 / ARM / MIPS) |
-  | Managed ***&*** Enterprise | *Java*, *C#/.NET* |
-  | Automation ***&*** Scripting | *Python*, *Bash*, *AWK*, *PowerShell* |
-  | UI ***&*** Frontend | *XAML*, *Qt*, *XML*, *Web Technologies* |
+  | Core Systems *&* Performance | *C*, *C++*, *Assembly* (x86 / ARM / MIPS) |
+  | Managed Services *&* Enterprise Applications | *Java*, *C#/.NET* |
+  | Scripting *&* Automation | *Python*, *Bash*, *AWK*, *PowerShell* |
+  | Frontends *&* UI/UX Design | *Web Technologies*, *XAML*, *Qt*, *XML* |
 
 </div>
 
@@ -38,15 +38,15 @@ An engineer having 25+ years of experience in software development — spanning 
 
 <div align="center">
 
-  `FPGAs` · `Microcontrollers` · `SoCs`
+  `Microcontrollers` · `FPGAs` · `SoCs`
   
   `Mobile` · `Web` · `Cloud`
   
-  `Freestanding` · `RTOS-based` · `Linux Kernel` · `Windows APIs`
+  `Freestanding` · `RTOSs` · `Linux Kernel` · `Windows APIs`
 
 </div>
 
-#### ⬡ &nbsp; &nbsp; Deep Interests
+#### ⬡ &nbsp; &nbsp; Special Interests
 
 - Realtime Operating Systems
 - Freestanding / bare-metal development
