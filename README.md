@@ -15,8 +15,6 @@
 
 I'm an avionics engineer having 25+YoE in core software development — covering the *breadth* and *depth* of the computing stack. Ranging from bare-metal silicon to cloud-scale applications, I've developed lasting solutions. Additionally, I have contributed to projects where precision isn't optional: `avionics-weapons integration`, `full-mission flight simulation`, and leading hardware designs with `military` and `aviation-grade` specifications.
 
-<br />
-
 ### $ &nbsp; Expertise
 
 #### ⬡ &nbsp; &nbsp; Tech-stack
@@ -42,15 +40,21 @@ I'm an avionics engineer having 25+YoE in core software development — covering
   
   `Bare-metal/Freestanding` · `RTOS` · `Linux` · `Windows`
 
+  '''
+  
+  *specifically interested in*
+  
+  '''
+
+  `Realtime Operating Systems`
+  
+  `Freestanding` / `bare-metal development`
+  
+  `Secure programming` · `Performance optimization`
+  
+  `Kernel modules`
+
 </div>
-
-Especially interested in:
-
-- Realtime Operating Systems
-- Freestanding / bare-metal development
-- Secure programming
-- Performance optimization
-- Kernel modules
 
 <br />
 
@@ -80,9 +84,9 @@ Especially interested in:
   <a href="https://github.com/cronblocks" title="CronBlocks" target="_blank"><img src="https://avatars.githubusercontent.com/u/86520771?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
   <a href="https://github.com/dds-dotnet" title="DDS .Net" target="_blank"><img src="https://avatars.githubusercontent.com/u/125957062?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
   <a href="https://github.com/arduino-ba" title="Arduino – Beginner to Advanced" target="_blank"><img src="https://avatars.githubusercontent.com/u/121078777?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
-  <!--<a href="https://github.com/innolixir" title="InnoLixir" target="_blank"><img src="https://avatars.githubusercontent.com/u/85053112?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;-->
-  <!--<a href="https://github.com/ubrant" title="Ubrant" target="_blank"><img src="https://avatars.githubusercontent.com/u/87671848?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;-->
-  <!--<a href="https://github.com/move-os" title="moveOS" target="_blank"><img src="https://avatars.githubusercontent.com/u/116582302?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;-->
-  <!--<a href="https://github.com/git-mine" title="Git Mine" target="_blank"><img src="https://avatars.githubusercontent.com/u/125908595?s=28&v=4" width="28" style="border-radius:4px;" /></a>-->
+  <a href="https://github.com/innolixir" title="InnoLixir" target="_blank"><img src="https://avatars.githubusercontent.com/u/85053112?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
+  <a href="https://github.com/ubrant" title="Ubrant" target="_blank"><img src="https://avatars.githubusercontent.com/u/87671848?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
+  <a href="https://github.com/move-os" title="moveOS" target="_blank"><img src="https://avatars.githubusercontent.com/u/116582302?s=28&v=4" width="28" style="border-radius:4px;" /></a>&nbsp;
+  <a href="https://github.com/git-mine" title="Git Mine" target="_blank"><img src="https://avatars.githubusercontent.com/u/125908595?s=28&v=4" width="28" style="border-radius:4px;" /></a>
 </p>
 -->
