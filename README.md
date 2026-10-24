@@ -11,9 +11,9 @@
 
 </div>
 
-<br />
+I'm an avionics engineer having 25+YoE in core software development — covering the *breadth* and *depth* of the computing stack.
 
-I'm an avionics engineer having 25+YoE in core software development — covering the *breadth* and *depth* of the computing stack. Ranging from bare-metal silicon to cloud-scale applications, I've developed lasting solutions. Additionally, I have contributed to projects where precision isn't optional: `avionics-weapons integration`, `full-mission flight simulation`, and leading hardware designs with `military` and `aviation-grade` specifications.
+Ranging from bare-metal silicon to cloud-scale applications, I've developed lasting solutions. Along the way, I have done projects where precision isn't optional: `avionics-weapons integration`, `full-mission flight simulation`, and leading hardware design with `military` and `aviation-grade` specifications.
 
 ### $ &nbsp; Expertise
 
@@ -38,7 +38,7 @@ I'm an avionics engineer having 25+YoE in core software development — covering
   
   `Mobile` · `Web` · `Cloud`
   
-  `Bare-metal/Freestanding` · `RTOS` · `Linux` · `Windows`
+  `Freestanding` · `RTOS` · `Linux` · `Windows`
 
   '''
   
