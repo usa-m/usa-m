@@ -17,9 +17,11 @@ Ranging from bare-metal silicon to cloud-scale applications, I've developed last
 
 ### $ &nbsp; Expertise
 
-#### ⬡ &nbsp; &nbsp; Tech-stack
-
 <div align="center">
+
+#### ✮˚.⋆ &nbsp; &nbsp; Tech-stack &nbsp; &nbsp; ⋆.˚✮
+
+&nbsp;
 
   | Domain | Technologies |
   |---|---|
@@ -30,9 +32,13 @@ Ranging from bare-metal silicon to cloud-scale applications, I've developed last
 
 </div>
 
-#### ⬡ &nbsp; &nbsp; Target Platforms
+&nbsp;
 
 <div align="center">
+
+#### ✮˚.⋆ &nbsp; &nbsp; Target Platforms &nbsp; &nbsp; ⋆.˚✮
+
+&nbsp;
 
   `Microcontrollers` · `FPGAs` · `SoCs`
   
